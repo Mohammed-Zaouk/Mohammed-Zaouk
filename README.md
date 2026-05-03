@@ -1,28 +1,56 @@
-<h1 align="center">Hi 👋, I'm Mohammed Zaouk</h1>
-<h3 align="center">🚀 Junior Software Engineer | Passionate about turning ideas into code.</h3>
+# Hi, I'm Mohammed Zaouk 👋
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+Full-Stack Software Engineer with 3 years of experience building and shipping production applications used by hundreds of thousands of users.
 
-- 🌱 I’m currently learning **Web development**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mohammed-Zaouk/New-project.git](https://github.com/Mohammed-Zaouk/New-project.git)
+## 🚀 Production Projects
 
-- 📫 How to reach me **Mzgames888@gmail.com**
+### 📚 MZ Novels — [mznovels.com](https://mznovels.com)
+A full-scale novel reading & writing platform with a large active user base.
+- **Stack:** Django · Docker · Nginx · Gunicorn · MySQL · HTML · CSS · JavaScript
+- Self-hosted, containerized, and production-hardened with reverse proxy and process management
 
-- ⚡ Fun fact **I don't have a girlfriend...(typical)**
+### 📱 MZ Novels Mobile App
+Cross-platform mobile app companion to the web platform.
+- **Stack:** React Native · Expo · Supabase
+- Live on app stores with hundreds of thousands of users
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammed zaouk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed zaouk" height="30" width="40" /></a>
-<a href="https://fb.com/mohammed zaouk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammed zaouk" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yamatotatsumi5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yamatotatsumi5" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🛠️ Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-zaouk&show_icons=true&locale=en&layout=compact" alt="mohammed-zaouk" /></p>
+**Backend**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed-zaouk&show_icons=true&locale=en" alt="mohammed-zaouk" /></p>
+**Frontend & Mobile**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-zaouk&" alt="mohammed-zaouk" /></p>
+**DevOps & Tools**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Zaouk&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Zaouk&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📬 Connect
+
+- 🌐 [mznovels.com](https://mznovels.com)
+- 📘 Facebook: [mohammed.zaouk.96](https://facebook.com/mohammed.zaouk.96)
+- 📍 Morocco
