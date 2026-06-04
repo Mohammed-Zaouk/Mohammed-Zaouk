@@ -1,38 +1,26 @@
 <h1 align="center">Mohammed Zaouk</h1>
-
-<p align="center">
-  <strong>Software Engineer · 4 Years of Experience · Morocco 🇲🇦</strong>
-</p>
-
+<p align="center"><strong>Software Engineer · 4 Years of Experience · Morocco 🇲🇦</strong></p>
 <p align="center">
   <a href="mailto:contact@dawamz.com"><img src="https://img.shields.io/badge/Email-contact@dawamz.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  &nbsp;
   <a href="https://linkedin.com/in/mohammed-zaouk"><img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Zaouk-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
   <a href="https://www.leetcode.com/yamatotatsumi5"><img src="https://img.shields.io/badge/LeetCode-yamatotatsumi5-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
 </p>
 
 ---
 
-<img align="right" alt="coding" width="340" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<img align="right" alt="coding" width="320" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
-### About
+**Full-stack software engineer** with 4 years of experience shipping products from zero to production — web, mobile, backend, and infrastructure. I work across the entire stack without needing to hand off, and I've grown what I've built to real user numbers.
 
-Full-stack software engineer with 4 years of experience building and shipping products end to end — web, mobile, backend, and infrastructure. I've taken projects from zero to production, grown them to real user numbers, and kept them running.
-
-I work across the full stack without needing to hand off — from database schema and backend logic, to mobile app and web frontend, to deployment and automation.
-
-<br/>
-
-### Track Record
+**Track Record**
 
 | | |
 |---|---|
 | 📈 **400,000** | Monthly page views at peak |
-| 👥 **100,000+** | Users on a platform I built and maintain solo |
+| 👥 **100,000+** | Users on a platform built and maintained solo |
 | 📱 **Live on Google Play** | Android app actively maintained in production |
 | 🔄 **Daily automation** | Data pipelines running in production via GitHub Actions |
-| 🌍 **Multilingual products** | Arabic (RTL), French, English |
+| 🌍 **Multilingual** | Products shipped in Arabic (RTL), French, and English |
 
 <br clear="right"/>
 
@@ -49,14 +37,13 @@ I work across the full stack without needing to hand off — from database schem
 
 Morocco had no reliable way to find which pharmacy is open at night or on weekends. I built one — available on Android and the web, in Arabic, French, and English.
 
-A Python scraper runs daily via GitHub Actions, collects fresh on-call data, and pushes it to Supabase automatically. The entire data pipeline requires zero manual intervention.
+A Python scraper runs daily via GitHub Actions, collects fresh on-call data, and pushes it to Supabase automatically. Zero manual intervention required.
 
 > 🟢 Live on Google Play &nbsp;·&nbsp; Web at dawamz.com
 
-**Stack:**
 `React Native` `Expo` `TypeScript` `React` `Vite` `Supabase` `PostgreSQL` `MapLibre` `OSRM` `Python` `GitHub Actions` `Vercel`
 
-[Mobile repo](https://github.com/Mohammed-Zaouk/DawaMZ) &nbsp;·&nbsp; [Web repo](https://github.com/Mohammed-Zaouk/DawaMZ-web) &nbsp;·&nbsp; [Play Store](https://play.google.com/store/apps/details?id=com.dawamzsorganization.dawamz)
+[Mobile](https://github.com/Mohammed-Zaouk/DawaMZ) &nbsp;·&nbsp; [Web](https://github.com/Mohammed-Zaouk/DawaMZ-web) &nbsp;·&nbsp; [Play Store](https://play.google.com/store/apps/details?id=com.dawamzsorganization.dawamz)
 
 </td>
 <td width="50%" valign="top">
@@ -64,13 +51,12 @@ A Python scraper runs daily via GitHub Actions, collects fresh on-call data, and
 ### 📚 MZNovels
 **Free novel platform — no paywalls, no subscriptions**
 
-Built solo from scratch and grew it to **100,000+ users** and **400,000 monthly page views** at peak. Still running two years later with zero paid infrastructure.
+Built solo and grown to **100,000+ users** and **400,000 monthly page views** at peak. Still running two years later with zero paid infrastructure.
 
-Writers publish and manage chapters through a full editor. Readers browse, bookmark, and track their reading progress — no account required.
+Writers publish and manage chapters through a full editor. Readers browse, bookmark, and track progress — no account required.
 
 > 🟢 100k+ users &nbsp;·&nbsp; 400k peak monthly views &nbsp;·&nbsp; 2+ years in production
 
-**Stack:**
 `Django` `Python` `MySQL` `Whoosh` `Docker` `Nginx` `Gunicorn` `HTML` `CSS` `JavaScript`
 
 [Repo](https://github.com/Mohammed-Zaouk/MZNovels-website)
@@ -84,7 +70,6 @@ Writers publish and manage chapters through a full editor. Readers browse, bookm
 ## Tech Stack
 
 **Languages**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -92,7 +77,6 @@ Writers publish and manage chapters through a full editor. Readers browse, bookm
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Frameworks & Libraries**
-
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
@@ -100,7 +84,6 @@ Writers publish and manage chapters through a full editor. Readers browse, bookm
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 **Infrastructure & Data**
-
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -111,18 +94,29 @@ Writers publish and manage chapters through a full editor. Readers browse, bookm
 
 ---
 
+## Education
+
+<table>
+<tr>
+<td width="42px" align="center">🎓</td>
+<td><strong>OTHM Level 6 Diploma in Information Technology</strong> &nbsp;·&nbsp; <em>Equivalent to a UK Bachelor's degree · Ofqual-regulated · RQF Level 6</em><br/>Covers software engineering, systems analysis, network infrastructure, and IT project management at undergraduate level.</td>
+</tr>
+</table>
+
+---
+
 ## Experience
 
 <table>
 <tr>
-<td width="72px" align="center">🏛️</td>
+<td width="42px" align="center">🏛️</td>
 <td>
 
 **NARSA — National Road Safety Agency** &nbsp;·&nbsp; *Technology Operator · Contract · Fez, Morocco · 2023*
 
 NARSA is Morocco's government authority responsible for road safety policy and public awareness. As part of a national awareness campaign, they organized a physical education village in Fez — an interactive, multi-station event designed to teach children and families about road risks through hands-on experiences.
 
-I handled the full technology side of the event: configured and maintained a tablet fleet running an interactive educational app across all stations, resolved technical issues on the spot throughout the 20-day run, and acted as the primary point of contact for visitors — explaining the initiative, walking families through the experience, and making sure the educational content landed clearly.
+Handled the full technology side of the event: configured and maintained a tablet fleet running an interactive educational app across all stations, resolved technical issues on the spot throughout the 20-day run, and served as the primary point of contact for visitors — explaining the initiative and guiding families through the experience.
 
 </td>
 </tr>
@@ -130,12 +124,23 @@ I handled the full technology side of the event: configured and maintained a tab
 
 ---
 
+## Languages
+
+| Language | Certification | Level |
+|----------|--------------|-------|
+| Arabic | Native | Native |
+| French | TCF — C2 | Mastery |
+| English | ETLCI — B2 | Upper Intermediate |
+| Japanese | JLPT — N3 | Intermediate |
+
+---
+
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-zaouk&show_icons=true&hide_border=true&rank_icon=github&theme=default" alt="GitHub Stats" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-zaouk&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-zaouk&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-zaouk&layout=compact&hide_border=true" alt="Top Languages" height="160"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-zaouk&hide_border=true" alt="Streak"/>
