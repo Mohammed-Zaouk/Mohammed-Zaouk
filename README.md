@@ -1,79 +1,79 @@
 <h1 align="center">Mohammed Zaouk</h1>
-<h3 align="center">Software Engineer · Morocco 🇲🇦</h3>
+
+<p align="center">
+  <strong>Software Engineer · Morocco 🇲🇦</strong><br/>
+  I build and ship full-stack products end to end — web, mobile, backend, and infrastructure.
+</p>
 
 <p align="center">
   <a href="mailto:contact@dawamz.com"><img src="https://img.shields.io/badge/Email-contact@dawamz.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mohammed-zaouk"><img src="https://img.shields.io/badge/LinkedIn-Mohammed_Zaouk-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mohammed-zaouk"><img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Zaouk-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.leetcode.com/yamatotatsumi5"><img src="https://img.shields.io/badge/LeetCode-yamatotatsumi5-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
 </p>
 
 <img align="right" alt="coding" width="360" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
-I'm a self-taught software engineer from Morocco. I've shipped two production apps from scratch — one grew to **400k monthly page views**, the other is live on the **Google Play Store**. I work across the full stack: backend APIs, mobile, web, infrastructure, and automated data pipelines.
+### What I do
 
-<br/>
+- Ship products solo — design, build, deploy, maintain
+- Work across the full stack: mobile, web, backend, infra
+- Focus on real usage, not just code that runs locally
 
-### At a glance
-- 🏥 Built and launched **DawaMZ** — a pharmacy finder used across Morocco
-- 📚 Built **MZNovels** — 100k+ users, 400k peak monthly page views, still live
-- 🤖 Experience with automated data pipelines using Python + GitHub Actions
-- 🌍 Shipped multilingual products (Arabic RTL, French, English)
-- 🐳 Comfortable with Docker, Nginx, CI/CD, and cloud deployment
+### By the numbers
+
+- 📈 **400,000** monthly page views at peak
+- 👥 **100,000+** users on a platform I built and run alone
+- 📱 Live Android app on Google Play, actively maintained
+- 🔄 Automated data pipelines running in production daily
 
 <br clear="right"/>
 
 ---
 
-## 🏆 Projects
+## Featured Projects
 
-### 🏥 DawaMZ — On-Call Pharmacy Finder
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> Morocco has no reliable way to know which pharmacy is open right now. I built one.
+### 🏥 DawaMZ
+**On-call pharmacy finder for Morocco**
 
-<p>
-  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20Web-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Languages-AR%20%7C%20FR%20%7C%20EN-blue?style=flat-square"/>
-</p>
+Morocco had no reliable way to find which pharmacy is open at night or on weekends. I built one — available on Android and the web, in Arabic, French, and English.
 
-Available on Android and the web, in Arabic, French, and English. A daily Python scraper runs via GitHub Actions to keep the pharmacy data fresh automatically — no manual work needed.
+A Python scraper runs daily via GitHub Actions, pulls fresh on-call data, and pushes it to Supabase automatically. No manual updates needed.
 
-| | |
-|---|---|
-| **Mobile** | React Native + Expo, MapLibre GL, OSRM turn-by-turn routing, GPS detection |
-| **Web** | React + Vite, deployed on Vercel |
-| **Backend** | Supabase (PostgreSQL + RLS), automated scraping pipeline |
-| **Other** | RTL support, dark mode, real-time open/closed from weekly on-call schedules |
+**Impact:** Live on Google Play · Web at dawamz.com
 
-**[Mobile Repo](https://github.com/Mohammed-Zaouk/DawaMZ)** · **[Web Repo](https://github.com/Mohammed-Zaouk/DawaMZ-web)** · **[dawamz.com](https://www.dawamz.com)** · **[Play Store](https://play.google.com/store/apps/details?id=com.dawamzsorganization.dawamz)**
+**Stack:**
+React Native · Expo · React · Vite · Supabase · PostgreSQL · MapLibre · OSRM · GitHub Actions · Python · Vercel
 
----
+[Mobile](https://github.com/Mohammed-Zaouk/DawaMZ) · [Web](https://github.com/Mohammed-Zaouk/DawaMZ-web) · [dawamz.com](https://www.dawamz.com) · [Play Store](https://play.google.com/store/apps/details?id=com.dawamzsorganization.dawamz)
 
-### 📚 MZNovels — Novel Platform
+</td>
+<td width="50%" valign="top">
 
-> A free platform for writers to publish and readers to read — no paywalls, no subscriptions.
+### 📚 MZNovels
+**Free novel platform — no paywalls, no ads**
 
-<p>
-  <img src="https://img.shields.io/badge/Users-100k%2B-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Peak-400k%20monthly%20page%20views-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Status-Still%20Live-success?style=flat-square"/>
-</p>
+Built solo and grew it to **100k+ users** and **400k monthly page views** at its peak. Still running today, two years later.
 
-Built solo from scratch. Grew organically to 100k+ users and peaked at 400k monthly page views. Fully self-hosted and still running.
+Writers publish and manage their work through a full editor. Readers browse, bookmark, and track progress — all without an account.
 
-| | |
-|---|---|
-| **Backend** | Django + Python |
-| **Frontend** | HTML, CSS, JavaScript |
-| **Search** | Whoosh full-text search |
-| **Infra** | Docker + Nginx + Gunicorn, MySQL |
-| **Features** | Writing editor, chapter management, bookmarks, reading progress, user profiles, genre/tag filtering |
+**Impact:** 100k+ users · 400k peak monthly page views · 2+ years live
 
-**[Repo](https://github.com/Mohammed-Zaouk/MZNovels-website)**
+**Stack:**
+Django · Python · HTML · CSS · JavaScript · MySQL · Whoosh · Docker · Nginx · Gunicorn
+
+[Repo](https://github.com/Mohammed-Zaouk/MZNovels-website)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -83,7 +83,7 @@ Built solo from scratch. Grew organically to 100k+ users and peaked at 400k mont
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Frameworks**
+**Frameworks & Libraries**
 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -91,7 +91,7 @@ Built solo from scratch. Grew organically to 100k+ users and peaked at 400k mont
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-**Infra & Tools**
+**Infrastructure & Tools**
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -103,20 +103,21 @@ Built solo from scratch. Grew organically to 100k+ users and peaked at 400k mont
 
 ---
 
-## 💼 Experience
+## Experience
 
-**NARSA — National Road Safety Agency** · *Morocco · 2023 · Contract*
+**NARSA — National Road Safety Agency** · *Contract · 2023*
 
-Handled the technology side of a government-run road safety education event for children and families. Set up and maintained tablets running an interactive educational app across the venue, and served as the main point of contact for visitors throughout the event.
+Handled the technology side of a government-run road safety education village for children and families. Set up and maintained tablets running an interactive educational app throughout the event, and worked directly with visitors — explaining the initiative and guiding families through the experience.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-zaouk&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-zaouk&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-zaouk&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-zaouk&layout=compact&hide_border=true" alt="Top Languages"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-zaouk&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-zaouk&hide_border=true" alt="Streak"/>
 </p>
