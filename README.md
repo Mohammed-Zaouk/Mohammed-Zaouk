@@ -1,4 +1,3 @@
-<div padding="-10px">
 <h1 align="center">Mohammed Zaouk</h1>
 
 <p align="center"><strong>Software Engineer · 4 Years of Experience · Morocco 🇲🇦</strong></p>
@@ -155,4 +154,3 @@ Handled the full technology side of the event: configured and maintained a table
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-zaouk&hide_border=true" alt="Streak"/>
 </p>
-</div>
