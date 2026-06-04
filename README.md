@@ -1,123 +1,94 @@
 <h1 align="center">Mohammed Zaouk</h1>
+<h3 align="center">Software Engineer · Morocco</h3>
 
-<p align="center">
-  <strong>Software Engineer · Morocco 🇲🇦</strong><br/>
-  I build and ship full-stack products end to end — web, mobile, backend, and infrastructure.
-</p>
+<br/>
 
-<p align="center">
-  <a href="mailto:contact@dawamz.com"><img src="https://img.shields.io/badge/Email-contact@dawamz.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mohammed-zaouk"><img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Zaouk-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.leetcode.com/yamatotatsumi5"><img src="https://img.shields.io/badge/LeetCode-yamatotatsumi5-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
-</p>
+I build things that ship — from full-stack web platforms handling hundreds of thousands of users, to cross-platform mobile apps published on the Play Store. I care about the product, not just the code.
 
-<img align="right" alt="coding" width="360" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
-
-### What I do
-
-- Ship products solo — design, build, deploy, maintain
-- Work across the full stack: mobile, web, backend, infra
-- Focus on real usage, not just code that runs locally
-
-### By the numbers
-
-- 📈 **400,000** monthly page views at peak
-- 👥 **100,000+** users on a platform I built and run alone
-- 📱 Live Android app on Google Play, actively maintained
-- 🔄 Automated data pipelines running in production daily
-
-<br clear="right"/>
+Currently focused on **React Native**, **Django**, and **data pipelines**, while keeping an eye on the full stack from database design to deployment.
 
 ---
 
-## Featured Projects
+## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 📱 DawaMZ — On-Call Pharmacy Finder
+*React Native · Expo · TypeScript · Supabase · MapLibre · Python*
 
-### 🏥 DawaMZ
-**On-call pharmacy finder for Morocco**
+A cross-platform mobile app (Android) that helps users in Morocco find the nearest on-call pharmacy in real time. Built with GPS detection, interactive maps, turn-by-turn routing, and multilingual support (Arabic RTL, French, English).
 
-Morocco had no reliable way to find which pharmacy is open at night or on weekends. I built one — available on Android and the web, in Arabic, French, and English.
+On the data side, I built a private Python scraper that runs daily via GitHub Actions — automatically collecting, parsing, and pushing fresh pharmacy schedules to Supabase with no manual intervention. A companion web version (React + Vite) handles discoverability and SEO.
 
-A Python scraper runs daily via GitHub Actions, pulls fresh on-call data, and pushes it to Supabase automatically. No manual updates needed.
-
-**Impact:** Live on Google Play · Web at dawamz.com
-
-**Stack:**
-React Native · Expo · React · Vite · Supabase · PostgreSQL · MapLibre · OSRM · GitHub Actions · Python · Vercel
-
-[Mobile](https://github.com/Mohammed-Zaouk/DawaMZ) · [Web](https://github.com/Mohammed-Zaouk/DawaMZ-web) · [dawamz.com](https://www.dawamz.com) · [Play Store](https://play.google.com/store/apps/details?id=com.dawamzsorganization.dawamz)
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 MZNovels
-**Free novel platform — no paywalls, no ads**
-
-Built solo and grew it to **100k+ users** and **400k monthly page views** at its peak. Still running today, two years later.
-
-Writers publish and manage their work through a full editor. Readers browse, bookmark, and track progress — all without an account.
-
-**Impact:** 100k+ users · 400k peak monthly page views · 2+ years live
-
-**Stack:**
-Django · Python · HTML · CSS · JavaScript · MySQL · Whoosh · Docker · Nginx · Gunicorn
-
-[Repo](https://github.com/Mohammed-Zaouk/MZNovels-website)
-
-</td>
-</tr>
-</table>
+→ [Mobile repo](https://github.com/Mohammed-Zaouk/DawaMZ) · [Web repo](https://github.com/Mohammed-Zaouk/DawaMZ-web) · [dawamz.com](https://www.dawamz.com) · [Play Store](https://play.google.com/store/apps/details?id=com.dawamzsorganization.dawamz)
 
 ---
 
-## Tech Stack
+### 📖 MZNovels — Free Novel Platform
+*Django · Python · MySQL · Docker · Nginx · Gunicorn · Whoosh*
 
-**Languages**
+A fully free publishing platform for Arabic novels — no subscriptions, no paywalls. Writers publish and manage chapters through a built-in editor; readers browse, bookmark, and track progress. I designed and built the entire stack solo, from the Django backend and full-text search engine to containerized deployment behind Nginx.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**100,000+ registered users · peaked at 400,000 monthly page views · still live today.**
 
-**Frameworks & Libraries**
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-**Infrastructure & Tools**
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+→ [Repo](https://github.com/Mohammed-Zaouk/MZNovels-website)
 
 ---
 
 ## Experience
 
-**NARSA — National Road Safety Agency** · *Contract · 2023*
+**Technology Operator — NARSA (National Road Safety Agency), Morocco**
+*20-day contract · 2023*
 
-Handled the technology side of a government-run road safety education village for children and families. Set up and maintained tablets running an interactive educational app throughout the event, and worked directly with visitors — explaining the initiative and guiding families through the experience.
+Deployed and maintained a fleet of educational tablets at a road safety awareness village organized by Morocco's national road safety authority. The setup ran an interactive app presenting road risk content to children and parents. I handled the full technical side — device configuration, on-site troubleshooting, and explaining the initiative's purpose to visitors throughout the event.
 
 ---
 
-## GitHub Stats
+## Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-zaouk&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-zaouk&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="36" height="36"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="36" height="36"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="36" height="36"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="36" height="36"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="36" height="36"/>
+  &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="36" height="36"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-zaouk&hide_border=true" alt="Streak"/>
+
+**Languages:** Python · TypeScript · JavaScript · SQL
+**Frameworks:** Django · React Native (Expo) · React · Flask
+**Data:** Supabase · PostgreSQL · MySQL · web scraping · GitHub Actions automation
+**Infrastructure:** Docker · Nginx · Gunicorn · EAS Build · Vercel
+**Tools:** Git · MapLibre · OSRM · Whoosh
+
+---
+
+## Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-zaouk&show_icons=true&locale=en&layout=compact&theme=default" alt="top languages" />
 </p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-zaouk" alt="streak" />
+</p>
+
+---
+
+## Contact
+
+**Email:** Mzgames888@gmail.com
+&nbsp;·&nbsp;
+**LinkedIn:** [mohammed-zaouk](https://linkedin.com/in/mohammed-zaouk)
+&nbsp;·&nbsp;
+**LeetCode:** [yamatotatsumi5](https://www.leetcode.com/yamatotatsumi5)
