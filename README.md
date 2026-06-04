@@ -142,3 +142,4 @@ Handled the full technology side of the event: configured and maintained a table
 | 🇬🇧 English | IELTS — B2 | Upper Intermediate |
 | 🇯🇵 Japanese | JLPT — N3 | Intermediate |
 
+
