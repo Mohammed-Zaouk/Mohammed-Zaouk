@@ -1,30 +1,38 @@
 <h1 align="center">Mohammed Zaouk</h1>
 
 <p align="center">
-  <strong>Software Engineer · Morocco 🇲🇦</strong><br/>
-  I build and ship full-stack products end to end — web, mobile, backend, and infrastructure.
+  <strong>Software Engineer · 4 Years of Experience · Morocco 🇲🇦</strong>
 </p>
 
 <p align="center">
   <a href="mailto:contact@dawamz.com"><img src="https://img.shields.io/badge/Email-contact@dawamz.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  &nbsp;
   <a href="https://linkedin.com/in/mohammed-zaouk"><img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Zaouk-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
   <a href="https://www.leetcode.com/yamatotatsumi5"><img src="https://img.shields.io/badge/LeetCode-yamatotatsumi5-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
 </p>
 
-<img align="right" alt="coding" width="360" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+---
 
-### What I do
+<img align="right" alt="coding" width="340" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
-- Ship products solo — design, build, deploy, maintain
-- Work across the full stack: mobile, web, backend, infra
-- Focus on real usage, not just code that runs locally
+### About
 
-### By the numbers
+Full-stack software engineer with 4 years of experience building and shipping products end to end — web, mobile, backend, and infrastructure. I've taken projects from zero to production, grown them to real user numbers, and kept them running.
 
-- 📈 **400,000** monthly page views at peak
-- 👥 **100,000+** users on a platform I built and run alone
-- 📱 Live Android app on Google Play, actively maintained
-- 🔄 Automated data pipelines running in production daily
+I work across the full stack without needing to hand off — from database schema and backend logic, to mobile app and web frontend, to deployment and automation.
+
+<br/>
+
+### Track Record
+
+| | |
+|---|---|
+| 📈 **400,000** | Monthly page views at peak |
+| 👥 **100,000+** | Users on a platform I built and maintain solo |
+| 📱 **Live on Google Play** | Android app actively maintained in production |
+| 🔄 **Daily automation** | Data pipelines running in production via GitHub Actions |
+| 🌍 **Multilingual products** | Arabic (RTL), French, English |
 
 <br clear="right"/>
 
@@ -36,34 +44,34 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 DawaMZ
+### 🏥 DawaMZ &nbsp;·&nbsp; <a href="https://www.dawamz.com">dawamz.com</a>
 **On-call pharmacy finder for Morocco**
 
 Morocco had no reliable way to find which pharmacy is open at night or on weekends. I built one — available on Android and the web, in Arabic, French, and English.
 
-A Python scraper runs daily via GitHub Actions, pulls fresh on-call data, and pushes it to Supabase automatically. No manual updates needed.
+A Python scraper runs daily via GitHub Actions, collects fresh on-call data, and pushes it to Supabase automatically. The entire data pipeline requires zero manual intervention.
 
-**Impact:** Live on Google Play · Web at dawamz.com
+> 🟢 Live on Google Play &nbsp;·&nbsp; Web at dawamz.com
 
 **Stack:**
-React Native · Expo · React · Vite · Supabase · PostgreSQL · MapLibre · OSRM · GitHub Actions · Python · Vercel
+`React Native` `Expo` `TypeScript` `React` `Vite` `Supabase` `PostgreSQL` `MapLibre` `OSRM` `Python` `GitHub Actions` `Vercel`
 
-[Mobile](https://github.com/Mohammed-Zaouk/DawaMZ) · [Web](https://github.com/Mohammed-Zaouk/DawaMZ-web) · [dawamz.com](https://www.dawamz.com) · [Play Store](https://play.google.com/store/apps/details?id=com.dawamzsorganization.dawamz)
+[Mobile repo](https://github.com/Mohammed-Zaouk/DawaMZ) &nbsp;·&nbsp; [Web repo](https://github.com/Mohammed-Zaouk/DawaMZ-web) &nbsp;·&nbsp; [Play Store](https://play.google.com/store/apps/details?id=com.dawamzsorganization.dawamz)
 
 </td>
 <td width="50%" valign="top">
 
 ### 📚 MZNovels
-**Free novel platform — no paywalls, no ads**
+**Free novel platform — no paywalls, no subscriptions**
 
-Built solo and grew it to **100k+ users** and **400k monthly page views** at its peak. Still running today, two years later.
+Built solo from scratch and grew it to **100,000+ users** and **400,000 monthly page views** at peak. Still running two years later with zero paid infrastructure.
 
-Writers publish and manage their work through a full editor. Readers browse, bookmark, and track progress — all without an account.
+Writers publish and manage chapters through a full editor. Readers browse, bookmark, and track their reading progress — no account required.
 
-**Impact:** 100k+ users · 400k peak monthly page views · 2+ years live
+> 🟢 100k+ users &nbsp;·&nbsp; 400k peak monthly views &nbsp;·&nbsp; 2+ years in production
 
 **Stack:**
-Django · Python · HTML · CSS · JavaScript · MySQL · Whoosh · Docker · Nginx · Gunicorn
+`Django` `Python` `MySQL` `Whoosh` `Docker` `Nginx` `Gunicorn` `HTML` `CSS` `JavaScript`
 
 [Repo](https://github.com/Mohammed-Zaouk/MZNovels-website)
 
@@ -91,13 +99,13 @@ Django · Python · HTML · CSS · JavaScript · MySQL · Whoosh · Docker · Ng
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-**Infrastructure & Tools**
+**Infrastructure & Data**
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
@@ -105,18 +113,29 @@ Django · Python · HTML · CSS · JavaScript · MySQL · Whoosh · Docker · Ng
 
 ## Experience
 
-**NARSA — National Road Safety Agency** · *Contract · 2023*
+<table>
+<tr>
+<td width="72px" align="center">🏛️</td>
+<td>
 
-Handled the technology side of a government-run road safety education village for children and families. Set up and maintained tablets running an interactive educational app throughout the event, and worked directly with visitors — explaining the initiative and guiding families through the experience.
+**NARSA — National Road Safety Agency** &nbsp;·&nbsp; *Technology Operator · Contract · Fez, Morocco · 2023*
+
+NARSA is Morocco's government authority responsible for road safety policy and public awareness. As part of a national awareness campaign, they organized a physical education village in Fez — an interactive, multi-station event designed to teach children and families about road risks through hands-on experiences.
+
+I handled the full technology side of the event: configured and maintained a tablet fleet running an interactive educational app across all stations, resolved technical issues on the spot throughout the 20-day run, and acted as the primary point of contact for visitors — explaining the initiative, walking families through the experience, and making sure the educational content landed clearly.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-zaouk&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-zaouk&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-zaouk&show_icons=true&hide_border=true&rank_icon=github&theme=default" alt="GitHub Stats" height="165"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-zaouk&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-zaouk&hide_border=true" alt="Streak"/>
