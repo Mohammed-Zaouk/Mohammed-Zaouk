@@ -1,18 +1,20 @@
 <h1 align="center">Mohammed Zaouk</h1>
+
 <p align="center"><strong>Software Engineer · 4 Years of Experience · Morocco 🇲🇦</strong></p>
+
 <p align="center">
   <a href="mailto:contact@dawamz.com"><img src="https://img.shields.io/badge/Email-contact@dawamz.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  &nbsp;
   <a href="https://linkedin.com/in/mohammed-zaouk"><img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Zaouk-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
   <a href="https://www.leetcode.com/yamatotatsumi5"><img src="https://img.shields.io/badge/LeetCode-yamatotatsumi5-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
 </p>
 
 ---
 
-<img align="right" alt="coding" width="320" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 **Full-stack software engineer** with 4 years of experience shipping products from zero to production — web, mobile, backend, and infrastructure. I work across the entire stack without needing to hand off, and I've grown what I've built to real user numbers.
-
-**Track Record**
 
 | | |
 |---|---|
@@ -28,7 +30,7 @@
 
 ## Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -96,10 +98,17 @@ Writers publish and manage chapters through a full editor. Readers browse, bookm
 
 ## Education
 
-<table>
+<table width="100%">
 <tr>
 <td width="42px" align="center">🎓</td>
-<td><strong>OTHM Level 6 Diploma in Information Technology</strong> &nbsp;·&nbsp; <em>Equivalent to a UK Bachelor's degree · Ofqual-regulated · RQF Level 6</em><br/>Covers software engineering, systems analysis, network infrastructure, and IT project management at undergraduate level.</td>
+<td>
+
+**OTHM Level 6 Diploma in Information Technology**
+*Ofqual-regulated · RQF Level 6 · Equivalent to a UK Bachelor's Degree*
+
+Undergraduate-level qualification covering software engineering, systems analysis, network infrastructure, and IT project management. Regulated by Ofqual and recognised on the UK's Regulated Qualifications Framework at the same level as a Bachelor's degree.
+
+</td>
 </tr>
 </table>
 
@@ -107,14 +116,14 @@ Writers publish and manage chapters through a full editor. Readers browse, bookm
 
 ## Experience
 
-<table>
+<table width="100%">
 <tr>
 <td width="42px" align="center">🏛️</td>
 <td>
 
 **NARSA — National Road Safety Agency** &nbsp;·&nbsp; *Technology Operator · Contract · Fez, Morocco · 2023*
 
-NARSA is Morocco's government authority responsible for road safety policy and public awareness. As part of a national awareness campaign, they organized a physical education village in Fez — an interactive, multi-station event designed to teach children and families about road risks through hands-on experiences.
+NARSA is Morocco's government authority responsible for road safety policy and public awareness nationwide. As part of a national awareness campaign, they organized a physical education village in Fez — an interactive, multi-station event designed to teach children and families about road risks through hands-on experiences.
 
 Handled the full technology side of the event: configured and maintained a tablet fleet running an interactive educational app across all stations, resolved technical issues on the spot throughout the 20-day run, and served as the primary point of contact for visitors — explaining the initiative and guiding families through the experience.
 
@@ -128,10 +137,10 @@ Handled the full technology side of the event: configured and maintained a table
 
 | Language | Certification | Level |
 |----------|--------------|-------|
-| Arabic | Native | Native |
-| French | TCF — C2 | Mastery |
-| English | ETLCI — B2 | Upper Intermediate |
-| Japanese | JLPT — N3 | Intermediate |
+| 🇲🇦 Arabic | Native speaker | Native |
+| 🇫🇷 French | TCF — C2 | Mastery |
+| 🇬🇧 English | IELTS — B2 | Upper Intermediate |
+| 🇯🇵 Japanese | JLPT — N3 | Intermediate |
 
 ---
 
