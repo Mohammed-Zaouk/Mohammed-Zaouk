@@ -1,4 +1,4 @@
-<div padding="10px">
+<div padding="-10px">
 <h1 align="center">Mohammed Zaouk</h1>
 
 <p align="center"><strong>Software Engineer · 4 Years of Experience · Morocco 🇲🇦</strong></p>
