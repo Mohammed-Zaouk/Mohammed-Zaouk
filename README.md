@@ -20,6 +20,8 @@
 |---|---|
 | 📈 **400,000** | Monthly page views at peak |
 | 👥 **100,000+** | Users on a platform built and maintained solo |
+| 📉 **0.33 bounce rate** | Well below the 0.4–0.6 industry average |
+| 💰 **Monetized** | Real revenue from a self-built product |
 | 📱 **Live on Google Play** | Android app actively maintained in production |
 | 🔄 **Daily automation** | Data pipelines running in production via GitHub Actions |
 | 🌍 **Multilingual** | Products shipped in Arabic (RTL), French, and English |
@@ -50,18 +52,18 @@ A Python scraper runs daily via GitHub Actions, collects fresh on-call data, and
 </td>
 <td width="50%" valign="top">
 
-### 📚 MZNovels
+### 📚 MZNovels &nbsp;·&nbsp; <a href="https://www.mznovels.com">mznovels.com</a>
 **Free novel platform — no paywalls, no subscriptions**
 
-Built solo and grown to **100,000+ users** and **400,000 monthly page views** at peak. Still running two years later with zero paid infrastructure.
+Built solo from scratch and actively developed for over a year — shipping features continuously while scaling to 100k+ users and 400k monthly page views. A **0.33 bounce rate** (vs. 0.4–0.6 industry average) reflects real engagement: users land and stay. Monetized. Development shifted in late 2024 to start DawaMZ.
 
 Writers publish and manage chapters through a full editor. Readers browse, bookmark, and track progress — no account required.
 
-> 🟢 100k+ users &nbsp;·&nbsp; 400k peak monthly views &nbsp;·&nbsp; 2+ years in production
+> 🟢 100k+ users &nbsp;·&nbsp; 400k peak monthly views &nbsp;·&nbsp; **0.33 bounce rate** &nbsp;·&nbsp; Monetized
 
 `Django` `Python` `MySQL` `Whoosh` `Docker` `Nginx` `Gunicorn` `HTML` `CSS` `JavaScript`
 
-[Repo](https://github.com/Mohammed-Zaouk/MZNovels-website)
+[Repo](https://github.com/Mohammed-Zaouk/MZNovels-website) &nbsp;·&nbsp; [mznovels.com](https://www.mznovels.com)
 
 </td>
 </tr>
