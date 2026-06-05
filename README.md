@@ -67,7 +67,7 @@ A platform that helps users quickly locate on-call pharmacies across Morocco thr
 
 A Python-based data collection pipeline runs daily through GitHub Actions, automatically gathering updated pharmacy schedules and synchronizing them with Supabase, providing users with accurate and continuously refreshed information.
 
-> 🟢 Live on Google Play &nbsp;·&nbsp; 50k Installs·&nbsp;Web at dawamz.com
+> 🟢 Live on Google Play &nbsp;·&nbsp; 50k Installs ·&nbsp; Web at dawamz.com
 
 `React Native` `Expo` `TypeScript` `React` `Vite` `Supabase` `PostgreSQL` `MapLibre` `OSRM` `Python` `GitHub Actions` `Vercel`
 
