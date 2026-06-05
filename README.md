@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="mailto:contact@dawamz.com"><img src="https://img.shields.io/badge/Email-contact@dawamz.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:contact@dawamz.com"><img src="https://img.shields.io/badge/Email-me@zaouk.dev-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   &nbsp;
   <a href="https://zaouk.dev"><img src="https://img.shields.io/badge/Portfolio-zaouk.dev-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
   &nbsp;
