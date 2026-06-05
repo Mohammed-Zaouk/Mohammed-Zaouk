@@ -1,5 +1,7 @@
 <h1 align="center">Mohammed Zaouk</h1>
+
 <p align="center"><strong>Software Engineer · 4 Years of Experience · Morocco 🇲🇦</strong></p>
+
 <p align="center">
   <a href="mailto:contact@dawamz.com"><img src="https://img.shields.io/badge/Email-contact@dawamz.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   &nbsp;
@@ -10,7 +12,7 @@
 
 ---
 
-<table width="100%"><tr><td valign="top" width="60%">
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 **Full-stack software engineer** with 4 years of experience shipping products from zero to production — web, mobile, backend, and infrastructure. I work across the entire stack without needing to hand off, and I've grown what I've built to real user numbers.
 
@@ -22,9 +24,7 @@
 | 🔄 **Daily automation** | Data pipelines running in production via GitHub Actions |
 | 🌍 **Multilingual** | Products shipped in Arabic (RTL), French, and English |
 
-</td><td align="right" width="40%">
-<img alt="coding" width="100%" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
-</td></tr></table>
+<br clear="right"/>
 
 ---
 
@@ -71,30 +71,21 @@ Writers publish and manage chapters through a full editor. Readers browse, bookm
 
 ## Tech Stack
 
-<table width="100%"><tr>
-<td valign="top" width="33%">
-
-**Languages**<br/>
+**Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
-
-**Frameworks & Libraries**<br/>
+**Frameworks & Libraries**
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
-
-**Infrastructure & Data**<br/>
+**Infrastructure & Data**
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -103,21 +94,19 @@ Writers publish and manage chapters through a full editor. Readers browse, bookm
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-</td>
-</tr></table>
-
 ---
 
-## Education & Certifications
+## Education
 
 <table width="100%">
 <tr>
 <td width="42px" align="center">🎓</td>
 <td>
 
-**OTHM Level 6 Diploma in Information Technology** &nbsp;·&nbsp; *Ofqual-regulated · RQF Level 6 · Equivalent to a UK Bachelor's Degree*
+**OTHM Level 6 Diploma in Information Technology**
+*Ofqual-regulated · RQF Level 6 · Equivalent to a UK Bachelor's Degree*
 
-Undergraduate-level qualification covering software engineering, systems analysis, network infrastructure, and IT project management — regulated by Ofqual at the same level as a Bachelor's degree.
+Undergraduate-level qualification covering software engineering, systems analysis, network infrastructure, and IT project management. Regulated by Ofqual and recognised on the UK's Regulated Qualifications Framework at the same level as a Bachelor's degree.
 
 </td>
 </tr>
@@ -146,31 +135,22 @@ Handled the full technology side of the event: configured and maintained a table
 
 ## Languages
 
-<table width="100%">
-<tr>
-<td>🇲🇦 <strong>Arabic</strong></td><td>Native</td><td>—</td>
-<td>🇫🇷 <strong>French</strong></td><td>TCF</td><td>C2 · Mastery</td>
-</tr>
-<tr>
-<td>🇬🇧 <strong>English</strong></td><td>IELTS</td><td>B2 · Upper Intermediate</td>
-<td>🇯🇵 <strong>Japanese</strong></td><td>JLPT</td><td>N3 · Intermediate</td>
-</tr>
-</table>
+| Language | Certification | Level |
+|----------|--------------|-------|
+| 🇲🇦 Arabic | Native speaker | Native |
+| 🇫🇷 French | TCF — C2 | Mastery |
+| 🇬🇧 English | IELTS — B2 | Upper Intermediate |
+| 🇯🇵 Japanese | JLPT — N3 | Intermediate |
 
 ---
 
 ## GitHub Stats
 
-<table width="100%"><tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=mohammed-zaouk&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" width="100%"/>
-</td>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-zaouk&layout=compact&hide_border=true" alt="Top Languages" width="100%"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-zaouk&hide_border=true" alt="Streak" width="100%"/>
-</td>
-</tr></table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-zaouk&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-zaouk&layout=compact&hide_border=true" alt="Top Languages" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-zaouk&hide_border=true" alt="Streak"/>
+</p>
