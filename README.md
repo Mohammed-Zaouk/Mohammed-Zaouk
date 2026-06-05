@@ -52,7 +52,7 @@
 
 Moroccans had no reliable way to find out which pharmacies were open at night or on weekends — so I built one. Available on Android and the web, in Arabic, French, and English.
 
-Alongside manually collecting data, a Python scraper runs daily via GitHub Actions, pulls fresh on-call schedules, and pushes them to Supabase automatically.
+Alongside manually collecting data, a Python scraper runs daily via GitHub Actions, pulls fresh on-call schedules, and pushes them automatically to my database in Supabase, which then is served to users with a modern UI and UX.
 
 > 🟢 Live on Google Play &nbsp;·&nbsp; Web at dawamz.com
 
