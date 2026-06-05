@@ -14,26 +14,23 @@
 
 ---
 
-<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<p align="center">
+  <img alt="coding" width="260" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+</p>
 
 **Full-stack software engineer** with 4 years of experience shipping products from zero to production — web, mobile, backend, and infrastructure. I work across the entire stack without needing to hand things off, and I've grown what I've built to real user numbers.
 
 <br/>
-<br/>
-<br/>
 
-<table>
-<tr><th align="left">Metric</th><th align="left"></th></tr>
-<tr><td>📈 Monthly page views at peak in my website project <em>MZNovels</em></td><td><strong>400,000</strong></td></tr>
-<tr><td>👥 Users on a solo-built platform <em>MZNovels</em></td><td><strong>100,000+</strong></td></tr>
-<tr><td>📱 App installs on Google Play in <em>DawaMZ</em></td><td><strong>50,000+</strong></td></tr>
-<tr><td>📉 Bounce rate (industry avg: 0.4–0.6) in <em>MZNovels</em></td><td><strong>0.33</strong></td></tr>
-<tr><td>💰 Revenue</td><td>Monetized in both <em>MZNovels</em> and <em>DawaMZ</em></td></tr>
-<tr><td>🔄 Data pipelines with <em>DawaMZ</em></td><td>Daily, via GitHub Actions</td></tr>
-<tr><td>🌍 Languages shipped</td><td>Arabic (RTL), French, English — local Moroccan base in <em>DawaMZ</em>, international in <em>MZNovels</em></td></tr>
-</table>
-
-<br clear="right"/>
+| Metric | |
+|--------|---|
+| 📈 Peak monthly page views — *MZNovels* | **400,000** |
+| 👥 Users — *MZNovels* | **100,000+** |
+| 📱 App installs — *DawaMZ* | **50,000+** |
+| 📉 Bounce rate (industry avg: 0.4–0.6) — *MZNovels* | **0.33** |
+| 💰 Revenue | Both *MZNovels* & *DawaMZ* |
+| 🔄 Data pipelines | Daily, via GitHub Actions |
+| 🌍 Languages shipped | Arabic, French, English |
 
 ---
 
@@ -71,7 +68,6 @@ Writers publish and manage chapters through a full editor. Readers browse, bookm
 `Django` `Python` `MySQL` `Whoosh` `Docker` `Nginx` `Gunicorn` `HTML` `CSS` `JavaScript`
 
 [Repo](https://github.com/Mohammed-Zaouk/MZNovels-website) &nbsp;·&nbsp; [mznovels.com](https://www.mznovels.com)
-
 
 </td>
 </tr>
