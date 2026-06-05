@@ -5,8 +5,6 @@
 <p align="center">
   <a href="mailto:contact@dawamz.com"><img src="https://img.shields.io/badge/Email-contact@dawamz.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   &nbsp;
-  <a href="https://zaouk.dev"><img src="https://img.shields.io/badge/Portfolio-zaouk.dev-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-  &nbsp;
   <a href="https://linkedin.com/in/mohammed-zaouk"><img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Zaouk-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
   <a href="https://www.leetcode.com/yamatotatsumi5"><img src="https://img.shields.io/badge/LeetCode-yamatotatsumi5-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
@@ -18,17 +16,15 @@
 
 **Full-stack software engineer** with 4 years of experience shipping products from zero to production — web, mobile, backend, and infrastructure. I work across the entire stack without needing to hand off, and I've grown what I've built to real user numbers.
 
-<br/>
-
-| Metric | |
-|:---|:---|
-| 📈 Monthly page views at peak | **400,000** |
-| 👥 Users on a solo-built platform | **100,000+** |
-| 📱 App installs on Google Play | **50,000+** |
-| 📉 Bounce rate (industry avg: 0.4–0.6) | **0.33** |
-| 💰 Revenue | Monetized |
-| 🔄 Data pipelines | Daily, via GitHub Actions |
-| 🌍 Languages shipped | Arabic (RTL), French, English |
+| | |
+|---|---|
+| 📈 **400,000** | Monthly page views at peak |
+| 👥 **100,000+** | Users on a platform built and maintained solo |
+| 📉 **0.33 bounce rate** | Well below the 0.4–0.6 industry average |
+| 💰 **Monetized** | Real revenue from a self-built product |
+| 📱 **Live on Google Play** | Android app actively maintained in production |
+| 🔄 **Daily automation** | Data pipelines running in production via GitHub Actions |
+| 🌍 **Multilingual** | Products shipped in Arabic (RTL), French, and English |
 
 <br clear="right"/>
 
@@ -148,3 +144,5 @@ Handled the full technology side of the event: configured and maintained a table
 | 🇫🇷 French | TCF — C2 | Mastery |
 | 🇬🇧 English | IELTS — B2 | Upper Intermediate |
 | 🇯🇵 Japanese | JLPT — N3 | Intermediate |
+
+
