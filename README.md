@@ -22,7 +22,7 @@
 
 </td>
 
-<td valign="middle">
+<td valign="top">
 
 **Full-stack software engineer** with 4 years of experience shipping products from zero to production — web, mobile, backend, and infrastructure. I work across the entire stack without needing to hand things off, and I've grown what I've built to real user numbers.
 
