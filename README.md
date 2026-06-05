@@ -31,10 +31,10 @@
 
 | Metric | Value |
 |--------|-------|
-| 📈 Monthly page views at peak — *MZNovels* | **400,000** |
-| 👥 Users on a solo-built platform — *MZNovels* | **100,000+** |
-| 📱 App installs on Google Play — *DawaMZ* | **50,000+** |
-| 📉 Bounce rate (industry avg: 0.4–0.6) — *MZNovels* | **0.33** |
+| 📈 Monthly page views at peak — *MZNovels* | **400,000 Views**|
+| 👥 Users on a solo-built platform — *MZNovels* | **100,000+ Active Users** |
+| 📱 App installs on Google Play — *DawaMZ* | **50,000+ Installs** |
+| 📉 Bounce rate (industry avg: 0.4–0.6) — *MZNovels* | **0.33 Rate** |
 | 💰 Revenue | Monetized in both *MZNovels* and *DawaMZ* |
 | 🔄 Data pipelines — *DawaMZ* | Daily, via GitHub Actions |
 | 🌍 Languages shipped | Arabic (RTL), French, English |
