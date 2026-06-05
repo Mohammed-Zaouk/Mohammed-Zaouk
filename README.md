@@ -14,6 +14,7 @@
 
 ---
 
+<table border="none">
 <tr>
 <td width="320" valign="top">
 
@@ -21,12 +22,13 @@
 
 </td>
 
-<td valign="right">
+<td valign="top">
 
 **Full-stack software engineer** with 4 years of experience shipping products from zero to production — web, mobile, backend, and infrastructure. I work across the entire stack without needing to hand things off, and I've grown what I've built to real user numbers.
 
 </td>
 </tr>
+</table>
 
 | Metric | Value |
 |--------|-------|
