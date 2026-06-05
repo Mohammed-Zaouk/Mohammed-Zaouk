@@ -14,7 +14,6 @@
 
 ---
 
-<table>
 <tr>
 <td width="320" valign="top">
 
@@ -28,9 +27,6 @@
 
 </td>
 </tr>
-</table>
-
-<br/><br/>
 
 | Metric | Value |
 |--------|-------|
