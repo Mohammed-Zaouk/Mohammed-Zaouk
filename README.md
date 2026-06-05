@@ -16,19 +16,19 @@
 
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
-**Full-stack software engineer** with 4 years of experience shipping products from zero to production — web, mobile, backend, and infrastructure. I work across the entire stack without needing to hand off, and I've grown what I've built to real user numbers.
+**Full-stack software engineer** with 4 years of experience shipping products from zero to production — web, mobile, backend, and infrastructure. I work across the entire stack without needing to hand things off, and I've grown what I've built to real user numbers.
 
 <br/>
 
 | Metric | |
 |:---|:---|
-| 📈 Monthly page views at peak | **400,000** |
-| 👥 Users on a solo-built platform | **100,000+** |
-| 📱 App installs on Google Play | **50,000+** |
-| 📉 Bounce rate (industry avg: 0.4–0.6) | **0.33** |
-| 💰 Revenue | Monetized |
-| 🔄 Data pipelines | Daily, via GitHub Actions |
-| 🌍 Languages shipped | Arabic (RTL), French, English |
+| 📈 Monthly page views at peak in my website project *MZNovels* | **400,000** |
+| 👥 Users on a solo-built platform *MZNovels* | **100,000+** |
+| 📱 App installs on Google Play in *DawaMZ*| **50,000+** |
+| 📉 Bounce rate (industry avg: 0.4–0.6) in *MZNovels*| **0.33** |
+| 💰 Revenue | Monetized in both *MZNovels* and *DawaMZ*|
+| 🔄 Data pipelines with *DawaMZ* | Daily, via GitHub Actions |
+| 🌍 Languages shipped | Arabic (RTL), French, English — local Moroccan base in *DawaMZ*, international in *MZNovels*|
 
 <br clear="right"/>
 
@@ -43,9 +43,9 @@
 ### 🏥 DawaMZ &nbsp;·&nbsp; <a href="https://www.dawamz.com">dawamz.com</a>
 **On-call pharmacy finder for Morocco**
 
-Morocco had no reliable way to find which pharmacy is open at night or on weekends. I built one — available on Android and the web, in Arabic, French, and English.
+Moroccans had no reliable way to find out which pharmacies were open at night or on weekends — so I built one. Available on Android and the web, in Arabic, French, and English.
 
-A Python scraper runs daily via GitHub Actions, collects fresh on-call data, and pushes it to Supabase automatically. Zero manual intervention required.
+Alongside manually collecting data, a Python scraper runs daily via GitHub Actions, pulls fresh on-call schedules, and pushes them to Supabase automatically.
 
 > 🟢 Live on Google Play &nbsp;·&nbsp; Web at dawamz.com
 
@@ -61,7 +61,7 @@ A Python scraper runs daily via GitHub Actions, collects fresh on-call data, and
 
 Built solo from scratch and actively developed for over a year — shipping features continuously while scaling to **100k+ users** and **400k monthly page views**. A **0.33 bounce rate** (vs. 0.4–0.6 industry average) reflects genuine engagement: users land and stay. Monetized. Development shifted in late 2024 to start DawaMZ.
 
-Writers publish and manage chapters through a full editor. Readers browse, bookmark, and track progress — no account required.
+Writers publish and manage chapters through a full editor. Readers browse, bookmark, and track their progress — no account needed to access most content.
 
 > 🟢 100k+ users &nbsp;·&nbsp; 400k peak monthly views &nbsp;·&nbsp; 0.33 bounce rate &nbsp;·&nbsp; Monetized
 
@@ -132,7 +132,7 @@ Undergraduate-level qualification covering software engineering, systems analysi
 
 NARSA is Morocco's government authority responsible for road safety policy and public awareness nationwide. As part of a national awareness campaign, they organized a physical education village in Fez — an interactive, multi-station event designed to teach children and families about road risks through hands-on experiences.
 
-Handled the full technology side of the event: configured and maintained a tablet fleet running an interactive educational app across all stations, resolved technical issues on the spot throughout the 20-day run, and served as the primary point of contact for visitors — explaining the initiative and guiding families through the experience.
+I handled the full technology side of the event: configured and maintained a tablet fleet running an interactive educational app across all stations, resolved technical issues on the spot throughout the 20-day run, and served as the primary point of contact for visitors — explaining the initiative and guiding families through the experience.
 
 </td>
 </tr>
