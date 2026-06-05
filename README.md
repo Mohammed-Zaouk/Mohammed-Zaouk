@@ -59,11 +59,12 @@ Built solo from scratch and actively developed for over a year — shipping feat
 
 Writers publish and manage chapters through a full editor. Readers browse, bookmark, and track progress — no account required.
 
-> 🟢 100k+ users &nbsp;·&nbsp; 400k peak monthly views &nbsp;·&nbsp; **0.33 bounce rate** &nbsp;·&nbsp; Monetized
+> 🟢 100k+ users &nbsp;·&nbsp; 400k peak monthly views &nbsp;·&nbsp; 0.33 bounce rate &nbsp;·&nbsp; Monetized
 
 `Django` `Python` `MySQL` `Whoosh` `Docker` `Nginx` `Gunicorn` `HTML` `CSS` `JavaScript`
 
 [Repo](https://github.com/Mohammed-Zaouk/MZNovels-website) &nbsp;·&nbsp; [mznovels.com](https://www.mznovels.com)
+
 
 </td>
 </tr>
