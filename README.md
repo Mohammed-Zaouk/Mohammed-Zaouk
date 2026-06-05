@@ -14,23 +14,30 @@
 
 ---
 
-<p align="center">
-  <img alt="coding" width="260" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
-</p>
+<table width="100%">
+<tr>
+<td width="40%" align="center" valign="middle">
+  <img alt="coding" width="280" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+</td>
+<td width="60%" valign="middle">
 
 **Full-stack software engineer** with 4 years of experience shipping products from zero to production — web, mobile, backend, and infrastructure. I work across the entire stack without needing to hand things off, and I've grown what I've built to real user numbers.
 
+</td>
+</tr>
+</table>
+
 <br/>
 
-| Metric | |
-|--------|---|
-| 📈 Peak monthly page views — *MZNovels* | **400,000** |
-| 👥 Users — *MZNovels* | **100,000+** |
-| 📱 App installs — *DawaMZ* | **50,000+** |
+| Metric | Value |
+|--------|-------|
+| 📈 Monthly page views at peak — *MZNovels* | **400,000** |
+| 👥 Users on a solo-built platform — *MZNovels* | **100,000+** |
+| 📱 App installs on Google Play — *DawaMZ* | **50,000+** |
 | 📉 Bounce rate (industry avg: 0.4–0.6) — *MZNovels* | **0.33** |
-| 💰 Revenue | Both *MZNovels* & *DawaMZ* |
-| 🔄 Data pipelines | Daily, via GitHub Actions |
-| 🌍 Languages shipped | Arabic, French, English |
+| 💰 Revenue | Monetized in both *MZNovels* and *DawaMZ* |
+| 🔄 Data pipelines — *DawaMZ* | Daily, via GitHub Actions |
+| 🌍 Languages shipped | Arabic (RTL), French, English |
 
 ---
 
@@ -147,3 +154,4 @@ I handled the full technology side of the event: configured and maintained a tab
 | 🇫🇷 French | TCF — C2 | Mastery |
 | 🇬🇧 English | IELTS — B2 | Upper Intermediate |
 | 🇯🇵 Japanese | JLPT — N3 | Intermediate |
+EOF
