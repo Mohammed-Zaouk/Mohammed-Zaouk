@@ -20,15 +20,15 @@
 
 <br/>
 
-| | | |
-|---|---|---|
-| 📈 **400,000** | Monthly page views at peak in *MZNovels* 
-| 👥 **100,000+** | Users on a platform built and maintained solo in *MZNovels* 
-| 📱 **50,000+** | App installs on Google Play in *DawaMZ* 
-| 📉 **0.33 bounce rate** | Well below the 0.4–0.6 industry average in *MZNovels* 
-| 💰 **Monetized** | Real revenue from a self-built product in *MZNovels*
-| 🔄 **Daily automation** | Data pipelines running in production via GitHub Actions in *DawaMZ* 
-| 🌍 **Multilingual** | Products shipped in Arabic (RTL), French, and English with a Moroccan user base in *DawaMZ* and international in *MZNovels* 
+| Metric | |
+|:---|:---|
+| 📈 Monthly page views at peak | **400,000** |
+| 👥 Users on a solo-built platform | **100,000+** |
+| 📱 App installs on Google Play | **50,000+** |
+| 📉 Bounce rate (industry avg: 0.4–0.6) | **0.33** |
+| 💰 Revenue | Monetized |
+| 🔄 Data pipelines | Daily, via GitHub Actions |
+| 🌍 Languages shipped | Arabic (RTL), French, English |
 
 <br clear="right"/>
 
