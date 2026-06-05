@@ -14,11 +14,22 @@
 
 ---
 
-<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<table width="100%">
+<tr>
+<td valign="top">
 
 **Full-stack software engineer** with 4 years of experience shipping products from zero to production — web, mobile, backend, and infrastructure. I work across the entire stack without needing to hand things off, and I've grown what I've built to real user numbers.
 
-<br/>
+</td>
+<td width="340" align="right">
+
+<img alt="coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+
+</td>
+</tr>
+</table>
+
+<br/><br/>
 
 
 | Metric | Value |
