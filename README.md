@@ -1,6 +1,6 @@
 <h1 align="center">Mohammed Zaouk</h1>
 
-<p align="center"><strong>Software Engineer · 4 Years of Experience · Morocco 🇲🇦</strong></p>
+<p align="center"><strong>Full-Stack Software Engineer · Building Production Applications Since 2022 · Morocco 🇲🇦</strong></p>
 
 <p align="center">
   <a href="mailto:contact@dawamz.com"><img src="https://img.shields.io/badge/Email-contact@dawamz.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -13,6 +13,7 @@
 </p>
 
 ---
+
 <table>
 <tr>
 <td width="320" valign="top">
@@ -23,15 +24,24 @@
 
 <td valign="top">
 
-**Full-stack software engineer** with 4 years of experience shipping products from zero to production — web, mobile, backend, and infrastructure. I work across the entire stack without needing to hand things off, and I've grown what I've built to real user numbers.
+**Full-stack software engineer** focused on building and scaling production applications across web, mobile, backend, and infrastructure. I have independently designed, developed, deployed, and maintained products used by over **100,000 users**, reaching **400,000 monthly page views** and **50,000+ mobile installs**.
 
 </td>
 </tr>
 </table>
 
+## Highlights
+
+- 🚀 Built and scaled products used by **100,000+ users**
+- 📈 Reached **400,000 monthly page views**
+- 📱 Published applications with **50,000+ installs**
+- 🌍 Shipped multilingual products in **Arabic, French, and English**
+- ⚙️ Designed automated data pipelines and production infrastructure
+- 💰 Successfully monetized independent software products
+
 | Metric | Value |
 |--------|-------|
-| 📈 Monthly page views at peak — *MZNovels* | **400,000 Views**|
+| 📈 Monthly page views at peak — *MZNovels* | **400,000 Views** |
 | 👥 Users on a solo-built platform — *MZNovels* | **100,000+ Active Users** |
 | 📱 App installs on Google Play — *DawaMZ* | **50,000+ Installs** |
 | 📉 Bounce rate (industry avg: 0.4–0.6) — *MZNovels* | **0.33 Rate** |
@@ -48,11 +58,12 @@
 <td width="50%" valign="top">
 
 ### 🏥 DawaMZ &nbsp;·&nbsp; <a href="https://www.dawamz.com">dawamz.com</a>
+
 **On-call pharmacy finder for Morocco**
 
-Moroccans had no reliable way to find out which pharmacies were open at night or on weekends — so I built one. Available on Android and the web, in Arabic, French, and English.
+A platform that helps users quickly locate on-call pharmacies across Morocco through Android and web applications available in Arabic, French, and English.
 
-Alongside manually collecting data, a Python scraper runs daily via GitHub Actions, pulls fresh on-call schedules, and pushes them automatically to my database in Supabase, which then is served to users with a modern UI and UX.
+A Python-based data collection pipeline runs daily through GitHub Actions, automatically gathering updated pharmacy schedules and synchronizing them with Supabase, providing users with accurate and continuously refreshed information.
 
 > 🟢 Live on Google Play &nbsp;·&nbsp; Web at dawamz.com
 
@@ -64,9 +75,10 @@ Alongside manually collecting data, a Python scraper runs daily via GitHub Actio
 <td width="50%" valign="top">
 
 ### 📚 MZNovels &nbsp;·&nbsp; <a href="https://www.mznovels.com">mznovels.com</a>
+
 **Free novel platform — no paywalls, no subscriptions**
 
-Built solo from scratch and actively developed for over a year — shipping features continuously while scaling to **100k+ users** and **400k monthly page views**. A **0.33 bounce rate** (vs. 0.4–0.6 industry average) reflects genuine engagement: users land and stay. Monetized. Development shifted in late 2024 to start DawaMZ.
+Built and maintained independently from the ground up, scaling to **100,000+ users** and reaching **400,000 monthly page views** at peak traffic. The platform includes content publishing tools, search functionality, user progress tracking, and monetization systems while maintaining strong user engagement metrics.
 
 Writers publish and manage chapters through a full editor. Readers browse, bookmark, and track their progress — no account needed to access most content.
 
@@ -82,9 +94,19 @@ Writers publish and manage chapters through a full editor. Readers browse, bookm
 
 ---
 
+## Current Focus
+
+- Building and expanding **DawaMZ**
+- Exploring scalable backend architectures
+- Improving mobile application performance
+- Learning advanced system design and cloud infrastructure
+
+---
+
 ## Tech Stack
 
 **Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -92,6 +114,7 @@ Writers publish and manage chapters through a full editor. Readers browse, bookm
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Frameworks & Libraries**
+
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
@@ -99,6 +122,7 @@ Writers publish and manage chapters through a full editor. Readers browse, bookm
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 **Infrastructure & Data**
+
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -116,10 +140,10 @@ Writers publish and manage chapters through a full editor. Readers browse, bookm
 <td width="42px" align="center">🎓</td>
 <td>
 
-**OTHM Level 6 Diploma in Information Technology**
-*Ofqual-regulated · RQF Level 6 · Equivalent to a UK Bachelor's Degree*
+**OTHM Level 6 Diploma in Information Technology**  
+*Ofqual-regulated · RQF Level 6*
 
-Undergraduate-level qualification covering software engineering, systems analysis, network infrastructure, and IT project management. Regulated by Ofqual and recognised on the UK's Regulated Qualifications Framework at the same level as a Bachelor's degree.
+Coursework included software engineering, systems analysis, network infrastructure, database systems, and IT project management. Regulated by Ofqual and recognised on the UK's Regulated Qualifications Framework (RQF).
 
 </td>
 </tr>
