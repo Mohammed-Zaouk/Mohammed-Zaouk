@@ -1,46 +1,22 @@
 <h1 align="center">Mohammed Zaouk</h1>
 
-
-
 <p align="center"><strong>Software Engineer · 4 Years of Experience · Morocco 🇲🇦</strong></p>
 
-
-
 <p align="center">
-
   <a href="mailto:contact@dawamz.com"><img src="https://img.shields.io/badge/Email-contact@dawamz.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-
   &nbsp;
-
   <a href="https://zaouk.dev"><img src="https://img.shields.io/badge/Portfolio-zaouk.dev-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-
   &nbsp;
-
   <a href="https://linkedin.com/in/mohammed-zaouk"><img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Zaouk-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-
   &nbsp;
-
   <a href="https://www.leetcode.com/yamatotatsumi5"><img src="https://img.shields.io/badge/LeetCode-yamatotatsumi5-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
-
 </p>
-
-
 
 ---
 
-
-
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
-
-
 **Full-stack software engineer** with 4 years of experience shipping products from zero to production — web, mobile, backend, and infrastructure. I work across the entire stack without needing to hand things off, and I've grown what I've built to real user numbers.
-
-
-
-<br/>
-
-<br/>
 
 <br/>
 
