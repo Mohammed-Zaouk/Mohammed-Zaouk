@@ -20,7 +20,6 @@
   <img alt="coding" width="280" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 </td>
 <td width="60%" valign="middle">
-
 **Full-stack software engineer** with 4 years of experience shipping products from zero to production — web, mobile, backend, and infrastructure. I work across the entire stack without needing to hand things off, and I've grown what I've built to real user numbers.
 
 </td>
@@ -154,4 +153,3 @@ I handled the full technology side of the event: configured and maintained a tab
 | 🇫🇷 French | TCF — C2 | Mastery |
 | 🇬🇧 English | IELTS — B2 | Upper Intermediate |
 | 🇯🇵 Japanese | JLPT — N3 | Intermediate |
-EOF
