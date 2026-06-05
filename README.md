@@ -55,7 +55,7 @@ A Python scraper runs daily via GitHub Actions, collects fresh on-call data, and
 ### 📚 MZNovels &nbsp;·&nbsp; <a href="https://www.mznovels.com">mznovels.com</a>
 **Free novel platform — no paywalls, no subscriptions**
 
-Built solo from scratch and actively developed for over a year — shipping features continuously while scaling to 100k+ users and 400k monthly page views. A **0.33 bounce rate** (vs. 0.4–0.6 industry average) reflects real engagement: users land and stay. Monetized. Development shifted in late 2024 to start DawaMZ.
+Built solo from scratch and actively developed for over a year — shipping features continuously while scaling to **100k+ users** and **400k monthly page views**. A **0.33 bounce rate** (vs. 0.4–0.6 industry average) reflects genuine engagement: users land and stay. Monetized. Development shifted in late 2024 to start DawaMZ.
 
 Writers publish and manage chapters through a full editor. Readers browse, bookmark, and track progress — no account required.
 
