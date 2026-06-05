@@ -22,13 +22,13 @@
 
 | | | |
 |---|---|---|
-| 📈 **400,000** | Monthly page views at peak | *MZNovels* |
-| 👥 **100,000+** | Users on a platform built and maintained solo | *MZNovels* |
-| 📱 **50,000+** | App installs on Google Play | *DawaMZ* |
-| 📉 **0.33 bounce rate** | Well below the 0.4–0.6 industry average | *MZNovels* |
-| 💰 **Monetized** | Real revenue from a self-built product | *MZNovels* |
-| 🔄 **Daily automation** | Data pipelines running in production via GitHub Actions | *DawaMZ* |
-| 🌍 **Multilingual** | Products shipped in Arabic (RTL), French, and English | *Both* |
+| 📈 **400,000** | Monthly page views at peak in *MZNovels* |
+| 👥 **100,000+** | Users on a platform built and maintained solo in *MZNovels* |
+| 📱 **50,000+** | App installs on Google Play in *DawaMZ* |
+| 📉 **0.33 bounce rate** | Well below the 0.4–0.6 industry average in *MZNovels* |
+| 💰 **Monetized** | Real revenue from a self-built product in *MZNovels* |
+| 🔄 **Daily automation** | Data pipelines running in production via GitHub Actions in *DawaMZ* |
+| 🌍 **Multilingual** | Products shipped in Arabic (RTL), French, and English with a Moroccan user base in *DawaMZ* and international in *MZNovels* |
 
 <br clear="right"/>
 
