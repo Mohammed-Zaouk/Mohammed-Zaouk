@@ -32,7 +32,7 @@
 
 ## Featured Projects
 
-<table width="100%">
+<table width="100%" flexdirection="colume>
 <tr>
 <td width="50%" valign="top">
 
