@@ -20,7 +20,7 @@
 
 <br/>
 
-<table max-width="55%">
+<table>
 <tr><th align="left">Metric</th><th align="left"></th></tr>
 <tr><td>📈 Monthly page views at peak in my website project <em>MZNovels</em></td><td><strong>400,000</strong></td></tr>
 <tr><td>👥 Users on a solo-built platform <em>MZNovels</em></td><td><strong>100,000+</strong></td></tr>
