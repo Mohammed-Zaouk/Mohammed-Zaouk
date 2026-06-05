@@ -14,23 +14,23 @@
 
 ---
 
-<table width="100%">
+<table>
 <tr>
-<td valign="top">
-
-**Full-stack software engineer** with 4 years of experience shipping products from zero to production — web, mobile, backend, and infrastructure. I work across the entire stack without needing to hand things off, and I've grown what I've built to real user numbers.
-
-</td>
-<td width="340" align="right">
+<td width="320" valign="top">
 
 <img alt="coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+
+</td>
+
+<td valign="middle">
+
+**Full-stack software engineer** with 4 years of experience shipping products from zero to production — web, mobile, backend, and infrastructure. I work across the entire stack without needing to hand things off, and I've grown what I've built to real user numbers.
 
 </td>
 </tr>
 </table>
 
 <br/><br/>
-
 
 | Metric | Value |
 |--------|-------|
