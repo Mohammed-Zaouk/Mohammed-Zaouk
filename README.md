@@ -96,15 +96,6 @@ Writers publish and manage chapters through a full editor. Readers browse, bookm
 
 ---
 
-## Current Focus
-
-- Building and expanding **DawaMZ**
-- Exploring scalable backend architectures
-- Improving mobile application performance
-- Learning advanced system design and cloud infrastructure
-
----
-
 ## Tech Stack
 
 **Languages**
