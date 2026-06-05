@@ -16,17 +16,15 @@
 
 **Full-stack software engineer** with 4 years of experience shipping products from zero to production — web, mobile, backend, and infrastructure. I work across the entire stack without needing to hand off, and I've grown what I've built to real user numbers.
 
-<br/>
-
-| Metric | Result | Project |
-|--------|--------|---------|
-| 📈 Monthly page views at peak | **400,000** | MZNovels — international Arabic novel platform |
-| 👥 Registered users | **100,000+** | MZNovels — readers across the Arab world |
-| 📉 Bounce rate | **0.33** — vs. 0.4–0.6 industry average | MZNovels |
-| 💰 Monetized | Real revenue, self-built | MZNovels |
-| 📱 Play Store installs | **50,000+** | DawaMZ — Morocco-focused pharmacy finder |
-| 🔄 Daily automation | Data pipeline running in production | DawaMZ |
-| 🌍 Reach | International (Arab world) + Local (Morocco) | Both |
+| | |
+|---|---|
+| 📈 **400,000** | Monthly page views at peak |
+| 👥 **100,000+** | Users on a platform built and maintained solo |
+| 📉 **0.33 bounce rate** | Well below the 0.4–0.6 industry average |
+| 💰 **Monetized** | Real revenue from a self-built product |
+| 📱 **Live on Google Play** | Android app actively maintained in production |
+| 🔄 **Daily automation** | Data pipelines running in production via GitHub Actions |
+| 🌍 **Multilingual** | Products shipped in Arabic (RTL), French, and English |
 
 <br clear="right"/>
 
@@ -45,7 +43,7 @@ Morocco had no reliable way to find which pharmacy is open at night or on weeken
 
 A Python scraper runs daily via GitHub Actions, collects fresh on-call data, and pushes it to Supabase automatically. Zero manual intervention required.
 
-> 🟢 50k+ installs · Live on Google Play · Web at dawamz.com · Morocco
+> 🟢 Live on Google Play &nbsp;·&nbsp; Web at dawamz.com
 
 `React Native` `Expo` `TypeScript` `React` `Vite` `Supabase` `PostgreSQL` `MapLibre` `OSRM` `Python` `GitHub Actions` `Vercel`
 
@@ -61,11 +59,12 @@ Built solo from scratch and actively developed for over a year — shipping feat
 
 Writers publish and manage chapters through a full editor. Readers browse, bookmark, and track progress — no account required.
 
-> 🟢 100k+ users · 400k peak monthly views · 0.33 bounce rate · Monetized · International
+> 🟢 100k+ users &nbsp;·&nbsp; 400k peak monthly views &nbsp;·&nbsp; 0.33 bounce rate &nbsp;·&nbsp; Monetized
 
 `Django` `Python` `MySQL` `Whoosh` `Docker` `Nginx` `Gunicorn` `HTML` `CSS` `JavaScript`
 
 [Repo](https://github.com/Mohammed-Zaouk/MZNovels-website) &nbsp;·&nbsp; [mznovels.com](https://www.mznovels.com)
+
 
 </td>
 </tr>
@@ -145,3 +144,5 @@ Handled the full technology side of the event: configured and maintained a table
 | 🇫🇷 French | TCF — C2 | Mastery |
 | 🇬🇧 English | IELTS — B2 | Upper Intermediate |
 | 🇯🇵 Japanese | JLPT — N3 | Intermediate |
+
+
