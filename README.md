@@ -168,6 +168,6 @@ I handled the full technology side of the event: configured and maintained a tab
 | Language | Certification | Level |
 |----------|--------------|-------|
 | 🇲🇦 Arabic | Native speaker | Native |
-| 🇫🇷 French | TCF — C2 | Mastery |
+| 🇫🇷 French | TCF — C1 | Mastery |
 | 🇬🇧 English | IELTS — B2 | Upper Intermediate |
 | 🇯🇵 Japanese | JLPT — N3 | Intermediate |
