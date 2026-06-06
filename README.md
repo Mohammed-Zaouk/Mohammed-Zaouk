@@ -50,6 +50,7 @@
 | 💰 Revenue | Monetized in both *MZNovels* and *DawaMZ* |
 | 🔄 Data pipelines — *DawaMZ* | Daily, via GitHub Actions |
 | 🌍 Languages shipped | Arabic (RTL), French, English |
+|  🌐 User base | *DawaMZ* — Moroccan (local) / *MZNovels* — International|
 
 ---
 
@@ -71,7 +72,7 @@ A Python-based data collection pipeline runs daily through GitHub Actions, autom
 
 `React Native` `Expo` `TypeScript` `React` `Vite` `Supabase` `PostgreSQL` `MapLibre` `OSRM` `Python` `GitHub Actions` `Vercel`
 
-[Mobile](https://github.com/Mohammed-Zaouk/DawaMZ) &nbsp;·&nbsp; [Web](https://github.com/Mohammed-Zaouk/DawaMZ-web) &nbsp;·&nbsp; [Play Store](https://play.google.com/store/apps/details?id=com.dawamzsorganization.dawamz)
+[Mobile-Repo](https://github.com/Mohammed-Zaouk/DawaMZ) &nbsp;·&nbsp; [Web-Repo](https://github.com/Mohammed-Zaouk/DawaMZ-web) &nbsp;·&nbsp; [Play Store](https://play.google.com/store/apps/details?id=com.dawamzsorganization.dawamz)
 
 </td>
 <td width="50%" valign="top">
