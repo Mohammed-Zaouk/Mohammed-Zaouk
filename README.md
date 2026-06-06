@@ -50,7 +50,6 @@
 | 💰 Revenue | Monetized in both *MZNovels* and *DawaMZ* |
 | 🔄 Data pipelines — *DawaMZ* | Daily, via GitHub Actions |
 | 🌍 Languages shipped | Arabic (RTL), French, English |
-|  🌐 User base | *DawaMZ* — Moroccan (local) / *MZNovels* — International|
 
 ---
 
