@@ -68,7 +68,7 @@ A Python-based data collection pipeline runs daily through GitHub Actions, autom
 
 > 🟢 Live on Google Play &nbsp;·&nbsp; 50k Installs &nbsp;·&nbsp; Web at dawamz.com
 
-`React Native` `Expo` `React` `Vite` `Vercel` `TypeScript` `Supabase` `PostgreSQL` `Python` `GitHub Actions` `BeautifulSoup4`
+`React Native` `Expo` `React` `Vite` `Vercel` `TypeScript` `Supabase` `PostgreSQL` `MapLibre` `OSRM` `Python` `GitHub Actions` `BeautifulSoup4`
 
 [Mobile-Repo](https://github.com/Mohammed-Zaouk/DawaMZ) &nbsp;·&nbsp; [Web-Repo](https://github.com/Mohammed-Zaouk/DawaMZ-web) &nbsp;·&nbsp; [Play Store](https://play.google.com/store/apps/details?id=com.dawamzsorganization.dawamz)
 
@@ -85,7 +85,7 @@ Writers publish and manage chapters through a full editor. Readers browse, bookm
 
 > 🟢 100k+ users &nbsp;·&nbsp; 4M+ total views &nbsp;·&nbsp; 400k peak monthly views &nbsp;·&nbsp; 0.33 bounce rate &nbsp;·&nbsp; Monetized
 
-`Python` `Django` `MySQL` `Docker` `Nginx` `Gunicorn` `JavaScript` `HTML5` `CSS3` `VPS Deployment`
+`Python` `Django` `MySQL` `Whoosh` `Docker` `Nginx` `Gunicorn` `JavaScript` `HTML5` `CSS3` `VPS Deployment`
 
 [Repo](https://github.com/Mohammed-Zaouk/MZNovels-website) &nbsp;·&nbsp; [mznovels.com](https://www.mznovels.com)
 
@@ -102,7 +102,6 @@ Writers publish and manage chapters through a full editor. Readers browse, bookm
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
