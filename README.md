@@ -54,44 +54,27 @@
 
 ## Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🏥 DawaMZ &nbsp;·&nbsp; <a href="https://www.dawamz.com">dawamz.com</a>
+### 🏥 DawaMZ &nbsp;·&nbsp; Open/On-Call Pharmacy Finder &nbsp;·&nbsp; <a href="https://www.dawamz.com">dawamz.com</a> &nbsp;·&nbsp; <a href="https://github.com/Mohammed-Zaouk/DawaMZ">Mobile Repo</a> &nbsp;·&nbsp; <a href="https://github.com/Mohammed-Zaouk/DawaMZ-web">Web Repo</a> &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=com.dawamzsorganization.dawamz">Play Store</a>
 
-**Open/On-Call Pharmacy Finder**
+![Web + Mobile](https://img.shields.io/badge/Web_+_Mobile-e07b1a?style=flat-square) &nbsp;![Open Source](https://img.shields.io/badge/Open_Source-6b7280?style=flat-square) &nbsp;![50K+ Installs](https://img.shields.io/badge/50K+_Installs-3ECF8E?style=flat-square)
 
-A platform that helps users quickly locate on-call pharmacies across Morocco through Android and web applications available in Arabic, French, and English.
-
-A Python-based data collection pipeline runs daily through GitHub Actions, automatically gathering updated pharmacy schedules and synchronizing them with Supabase, providing users with accurate and continuously refreshed information.
-
-> 🟢 Live on Google Play &nbsp;·&nbsp; 50k Installs &nbsp;·&nbsp; Web at dawamz.com
+A cross-platform pharmacy discovery platform helping users locate nearby and on-call pharmacies across Morocco. A Python-based pipeline runs daily through GitHub Actions, automatically gathering updated pharmacy schedules and syncing them with Supabase.
 
 `React Native` `Expo` `React` `Vite` `Vercel` `TypeScript` `Supabase` `PostgreSQL` `MapLibre` `OSRM` `Python` `GitHub Actions` `BeautifulSoup4`
 
-[Mobile-Repo](https://github.com/Mohammed-Zaouk/DawaMZ) &nbsp;·&nbsp; [Web-Repo](https://github.com/Mohammed-Zaouk/DawaMZ-web) &nbsp;·&nbsp; [Play Store](https://play.google.com/store/apps/details?id=com.dawamzsorganization.dawamz)
+---
 
-</td>
-<td width="50%" valign="top">
+### 📚 MZNovels &nbsp;·&nbsp; Reading and Publishing Platform &nbsp;·&nbsp; <a href="https://www.mznovels.com">mznovels.com</a> &nbsp;·&nbsp; <a href="https://github.com/Mohammed-Zaouk/MZNovels-website">Repo</a>
 
-### 📚 MZNovels &nbsp;·&nbsp; <a href="https://www.mznovels.com">mznovels.com</a>
+![Web Platform](https://img.shields.io/badge/Web_Platform-e07b1a?style=flat-square) &nbsp;![100K+ Users](https://img.shields.io/badge/100K+_Users-6b7280?style=flat-square) &nbsp;![4M+ Views](https://img.shields.io/badge/4M+_Views-3ECF8E?style=flat-square)
 
-**Reading and Publishing Platform**
-
-Built and maintained independently from the ground up, scaling to **100,000+ users** and reaching **4M+ total page views** with **400,000 monthly page views** at peak traffic. The platform includes content publishing tools, search functionality, user progress tracking, and monetization systems while maintaining strong user engagement metrics.
-
-Writers publish and manage chapters through a full editor. Readers browse, bookmark, and track their progress — no account needed to access most content.
-
-> 🟢 100k+ users &nbsp;·&nbsp; 4M+ total views &nbsp;·&nbsp; 400k peak monthly views &nbsp;·&nbsp; 0.33 bounce rate &nbsp;·&nbsp; Monetized
+A full-stack digital publishing platform built and maintained independently, scaling to **100,000+ users** and **4M+ total page views** with **400,000 monthly views** at peak. Writers publish and manage chapters through a full editor; readers browse, bookmark, and track progress with no account required.
 
 `Python` `Django` `MySQL` `Whoosh` `Docker` `Nginx` `Gunicorn` `JavaScript` `HTML5` `CSS3` `VPS Deployment`
 
-[Repo](https://github.com/Mohammed-Zaouk/MZNovels-website) &nbsp;·&nbsp; [mznovels.com](https://www.mznovels.com)
-
-</td>
-</tr>
-</table>
+---
 
 ---
 
