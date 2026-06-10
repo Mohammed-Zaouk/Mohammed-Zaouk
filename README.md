@@ -129,25 +129,38 @@ A full-stack digital publishing platform built and maintained independently, sca
 
 ## Education
 
-🎓 &nbsp;**OTHM Level 6 Diploma in Information Technology** &nbsp;·&nbsp; *Aug 2026 – Jan 2027*
+<table width="100%">
+<tr>
+<td width="42px" align="center">🎓</td>
+<td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Ofqual-regulated · RQF Level 6*
+**OTHM Level 6 Diploma in Information Technology**  
+*Ofqual-regulated · RQF Level 6*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coursework included software engineering, systems analysis, network infrastructure, database systems, and IT project management. Regulated by Ofqual and recognised on the UK's Regulated Qualifications Framework (RQF).
+Coursework included software engineering, systems analysis, network infrastructure, database systems, and IT project management. Regulated by Ofqual and recognised on the UK's Regulated Qualifications Framework (RQF).
 
-<br>
+</td>
+</tr>
+</table>
 
 ---
 
 ## Experience
 
-🏛️ &nbsp;**NARSA — National Road Safety Agency** &nbsp;·&nbsp; *Technology Operator · Contract · Jul – Aug 2025*
+<table width="100%">
+<tr>
+<td width="42px" align="center">🏛️</td>
+<td>
 
-NARSA is Morocco's government authority responsible for road safety policy and public awareness nationwide. As part of a national awareness campaign, they organized a physical education village — an interactive, multi-station event designed to teach children and families about road risks through hands-on experiences.
+**NARSA — National Road Safety Agency** &nbsp;·&nbsp; *Technology Operator · Contract · Fez, Morocco · 2023*
+
+NARSA is Morocco's government authority responsible for road safety policy and public awareness nationwide. As part of a national awareness campaign, they organized a physical education village in Fez — an interactive, multi-station event designed to teach children and families about road risks through hands-on experiences.
 
 I handled the full technology side of the event: configured and maintained a tablet fleet running an interactive educational app across all stations, resolved technical issues on the spot throughout the 20-day run, and served as the primary point of contact for visitors — explaining the initiative and guiding families through the experience.
 
-<br>
+</td>
+</tr>
+</table>
 
 ---
 
