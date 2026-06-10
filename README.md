@@ -145,24 +145,6 @@ Coursework included software engineering, systems analysis, network infrastructu
 
 ---
 
-## Education
-
-<table width="100%">
-<tr>
-<td width="42px" align="center">🎓</td>
-<td>
-
-**OTHM Level 6 Diploma in Information Technology**  
-*Ofqual-regulated · RQF Level 6*
-
-Coursework included software engineering, systems analysis, network infrastructure, database systems, and IT project management. Regulated by Ofqual and recognised on the UK's Regulated Qualifications Framework (RQF).
-
-</td>
-</tr>
-</table>
-
----
-
 ## Experience
 
 <table width="100%">
