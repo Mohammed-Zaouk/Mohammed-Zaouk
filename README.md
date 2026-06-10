@@ -1,11 +1,9 @@
 <h1 align="center">Mohammed Zaouk</h1>
 
-
-<p align="center"><strong>Full-Stack Software Engineer · Building Production with 4 Years of Experience · Morocco 🇲🇦</strong></p>
-
+<p align="center"><strong>Full-Stack Software Engineer · 4 Years of Experience · Morocco 🇲🇦</strong></p>
 
 <p align="center">
-  <a href="mailto:contact@dawamz.com"><img src="https://img.shields.io/badge/Email-me@zaouk.dev-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:me@zaouk.dev"><img src="https://img.shields.io/badge/Email-me@zaouk.dev-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   &nbsp;
   <a href="https://zaouk.dev"><img src="https://img.shields.io/badge/Portfolio-zaouk.dev-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
   &nbsp;
@@ -26,7 +24,7 @@
 
 <td valign="top">
 
-**Full-stack software engineer** focused on building and scaling production applications across web, mobile, backend, and infrastructure. I have independently designed, developed, deployed, and maintained products used by over **100,000 users**, reaching **400,000 monthly page views** and **50,000+ mobile installs**.
+**Full-stack software engineer** focused on building and scaling production applications across web, mobile, backend, and infrastructure. I have independently designed, developed, deployed, and maintained products serving over **100,000 users**, generating **4M+ total page views**, **400,000 monthly page views** at peak, and **50,000+ mobile installs**.
 
 </td>
 </tr>
@@ -35,7 +33,7 @@
 ## Highlights
 
 - 🚀 Built and scaled products used by **100,000+ users**
-- 📈 Reached **400,000 monthly page views**
+- 📈 Reached **4M+ total page views** and **400,000 monthly page views** at peak
 - 📱 Published applications with **50,000+ installs**
 - 🌍 Shipped multilingual products in **Arabic, French, and English**
 - ⚙️ Designed automated data pipelines and production infrastructure
@@ -44,6 +42,7 @@
 | Metric | Value |
 |--------|-------|
 | 📈 Monthly page views at peak — *MZNovels* | **400,000 Views** |
+| 📊 Total page views — *MZNovels* | **4,000,000+ Views** |
 | 👥 Users on a solo-built platform — *MZNovels* | **100,000+ Active Users** |
 | 📱 App installs on Google Play — *DawaMZ* | **50,000+ Installs** |
 | 📉 Bounce rate (industry avg: 0.4–0.6) — *MZNovels* | **0.33 Rate** |
@@ -61,15 +60,15 @@
 
 ### 🏥 DawaMZ &nbsp;·&nbsp; <a href="https://www.dawamz.com">dawamz.com</a>
 
-**On-call pharmacy finder for Morocco**
+**Open/On-Call Pharmacy Finder**
 
 A platform that helps users quickly locate on-call pharmacies across Morocco through Android and web applications available in Arabic, French, and English.
 
 A Python-based data collection pipeline runs daily through GitHub Actions, automatically gathering updated pharmacy schedules and synchronizing them with Supabase, providing users with accurate and continuously refreshed information.
 
-> 🟢 Live on Google Play &nbsp;·&nbsp; 50k Installs ·&nbsp; Web at dawamz.com
+> 🟢 Live on Google Play &nbsp;·&nbsp; 50k Installs &nbsp;·&nbsp; Web at dawamz.com
 
-`React Native` `Expo` `TypeScript` `React` `Vite` `Supabase` `PostgreSQL` `MapLibre` `OSRM` `Python` `GitHub Actions` `Vercel`
+`React Native` `Expo` `React` `Vite` `Vercel` `TypeScript` `Supabase` `PostgreSQL` `Python` `GitHub Actions` `BeautifulSoup4`
 
 [Mobile-Repo](https://github.com/Mohammed-Zaouk/DawaMZ) &nbsp;·&nbsp; [Web-Repo](https://github.com/Mohammed-Zaouk/DawaMZ-web) &nbsp;·&nbsp; [Play Store](https://play.google.com/store/apps/details?id=com.dawamzsorganization.dawamz)
 
@@ -78,15 +77,15 @@ A Python-based data collection pipeline runs daily through GitHub Actions, autom
 
 ### 📚 MZNovels &nbsp;·&nbsp; <a href="https://www.mznovels.com">mznovels.com</a>
 
-**Free novel platform — no paywalls, no subscriptions**
+**Reading and Publishing Platform**
 
-Built and maintained independently from the ground up, scaling to **100,000+ users** and reaching **400,000 monthly page views** at peak traffic. The platform includes content publishing tools, search functionality, user progress tracking, and monetization systems while maintaining strong user engagement metrics.
+Built and maintained independently from the ground up, scaling to **100,000+ users** and reaching **4M+ total page views** with **400,000 monthly page views** at peak traffic. The platform includes content publishing tools, search functionality, user progress tracking, and monetization systems while maintaining strong user engagement metrics.
 
 Writers publish and manage chapters through a full editor. Readers browse, bookmark, and track their progress — no account needed to access most content.
 
-> 🟢 100k+ users &nbsp;·&nbsp; 400k peak monthly views &nbsp;·&nbsp; 0.33 bounce rate &nbsp;·&nbsp; Monetized
+> 🟢 100k+ users &nbsp;·&nbsp; 4M+ total views &nbsp;·&nbsp; 400k peak monthly views &nbsp;·&nbsp; 0.33 bounce rate &nbsp;·&nbsp; Monetized
 
-`Django` `Python` `MySQL` `Whoosh` `Docker` `Nginx` `Gunicorn` `HTML` `CSS` `JavaScript`
+`Python` `Django` `MySQL` `Docker` `Nginx` `Gunicorn` `JavaScript` `HTML5` `CSS3` `VPS Deployment`
 
 [Repo](https://github.com/Mohammed-Zaouk/MZNovels-website) &nbsp;·&nbsp; [mznovels.com](https://www.mznovels.com)
 
@@ -103,26 +102,47 @@ Writers publish and manage chapters through a full editor. Readers browse, bookm
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Mobile**
 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+**Backend**
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-3776AB?style=flat-square&logo=python&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**Infrastructure & Data**
+**Databases**
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**DevOps & Infrastructure**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
@@ -133,7 +153,7 @@ Writers publish and manage chapters through a full editor. Readers browse, bookm
 <td width="42px" align="center">🎓</td>
 <td>
 
-**OTHM Level 6 Diploma in Information Technology**  
+**OTHM Level 6 Diploma in Information Technology** &nbsp;·&nbsp; *Aug 2026 – Jan 2027*  
 *Ofqual-regulated · RQF Level 6*
 
 Coursework included software engineering, systems analysis, network infrastructure, database systems, and IT project management. Regulated by Ofqual and recognised on the UK's Regulated Qualifications Framework (RQF).
@@ -151,9 +171,9 @@ Coursework included software engineering, systems analysis, network infrastructu
 <td width="42px" align="center">🏛️</td>
 <td>
 
-**NARSA — National Road Safety Agency** &nbsp;·&nbsp; *Technology Operator · Contract · Fez, Morocco · 2023*
+**NARSA — National Road Safety Agency** &nbsp;·&nbsp; *Technology Operator · Contract · Jul – Aug 2025*
 
-NARSA is Morocco's government authority responsible for road safety policy and public awareness nationwide. As part of a national awareness campaign, they organized a physical education village in Fez — an interactive, multi-station event designed to teach children and families about road risks through hands-on experiences.
+NARSA is Morocco's government authority responsible for road safety policy and public awareness nationwide. As part of a national awareness campaign, they organized a physical education village — an interactive, multi-station event designed to teach children and families about road risks through hands-on experiences.
 
 I handled the full technology side of the event: configured and maintained a tablet fleet running an interactive educational app across all stations, resolved technical issues on the spot throughout the 20-day run, and served as the primary point of contact for visitors — explaining the initiative and guiding families through the experience.
 
