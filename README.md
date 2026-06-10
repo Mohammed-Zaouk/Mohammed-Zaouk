@@ -12,7 +12,7 @@
   <a href="https://www.leetcode.com/yamatotatsumi5"><img src="https://img.shields.io/badge/LeetCode-yamatotatsumi5-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
 </p>
 
----
+<br>
 
 <table>
 <tr>
@@ -30,31 +30,27 @@
 </tr>
 </table>
 
+<br>
+
+---
+
 ## Highlights
 
 - 🚀 Built and scaled products used by **100,000+ users**
 - 📈 Reached **4M+ total page views** and **400,000 monthly page views** at peak
-- 📱 Published applications with **50,000+ installs**
+- 📱 Published applications with **50,000+ installs** on Google Play
+- 📉 Maintained a **0.33 bounce rate** (industry avg: 0.4–0.6) on *MZNovels*
 - 🌍 Shipped multilingual products in **Arabic, French, and English**
-- ⚙️ Designed automated data pipelines and production infrastructure
-- 💰 Successfully monetized independent software products
+- ⚙️ Designed automated daily data pipelines via **GitHub Actions**
+- 💰 Successfully monetized independent products in both *MZNovels* and *DawaMZ*
 
-| Metric | Value |
-|--------|-------|
-| 📈 Monthly page views at peak — *MZNovels* | **400,000 Views** |
-| 📊 Total page views — *MZNovels* | **4,000,000+ Views** |
-| 👥 Users on a solo-built platform — *MZNovels* | **100,000+ Active Users** |
-| 📱 App installs on Google Play — *DawaMZ* | **50,000+ Installs** |
-| 📉 Bounce rate (industry avg: 0.4–0.6) — *MZNovels* | **0.33 Rate** |
-| 💰 Revenue | Monetized in both *MZNovels* and *DawaMZ* |
-| 🔄 Data pipelines — *DawaMZ* | Daily, via GitHub Actions |
-| 🌍 Languages shipped | Arabic (RTL), French, English |
+<br>
 
 ---
 
 ## Featured Projects
 
----
+<br>
 
 ### 🏥 DawaMZ &nbsp;·&nbsp; Open/On-Call Pharmacy Finder &nbsp;·&nbsp; <a href="https://www.dawamz.com">dawamz.com</a> &nbsp;·&nbsp; <a href="https://github.com/Mohammed-Zaouk/DawaMZ">Mobile Repo</a> &nbsp;·&nbsp; <a href="https://github.com/Mohammed-Zaouk/DawaMZ-web">Web Repo</a> &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=com.dawamzsorganization.dawamz">Play Store</a>
 
@@ -64,7 +60,7 @@ A cross-platform pharmacy discovery platform helping users locate nearby and on-
 
 `React Native` `Expo` `React` `Vite` `Vercel` `TypeScript` `Supabase` `PostgreSQL` `MapLibre` `OSRM` `Python` `GitHub Actions` `BeautifulSoup4`
 
----
+<br>
 
 ### 📚 MZNovels &nbsp;·&nbsp; Reading and Publishing Platform &nbsp;·&nbsp; <a href="https://www.mznovels.com">mznovels.com</a> &nbsp;·&nbsp; <a href="https://github.com/Mohammed-Zaouk/MZNovels-website">Repo</a>
 
@@ -74,7 +70,7 @@ A full-stack digital publishing platform built and maintained independently, sca
 
 `Python` `Django` `MySQL` `Whoosh` `Docker` `Nginx` `Gunicorn` `JavaScript` `HTML5` `CSS3` `VPS Deployment`
 
----
+<br>
 
 ---
 
@@ -126,42 +122,30 @@ A full-stack digital publishing platform built and maintained independently, sca
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
+<br>
+
 ---
 
 ## Education
 
-<table width="100%">
-<tr>
-<td width="42px" align="center">🎓</td>
-<td>
+🎓 &nbsp;**OTHM Level 6 Diploma in Information Technology** &nbsp;·&nbsp; *Aug 2026 – Jan 2027*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Ofqual-regulated · RQF Level 6*
 
-**OTHM Level 6 Diploma in Information Technology** &nbsp;·&nbsp; *Aug 2026 – Jan 2027*  
-*Ofqual-regulated · RQF Level 6*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coursework included software engineering, systems analysis, network infrastructure, database systems, and IT project management. Regulated by Ofqual and recognised on the UK's Regulated Qualifications Framework (RQF).
 
-Coursework included software engineering, systems analysis, network infrastructure, database systems, and IT project management. Regulated by Ofqual and recognised on the UK's Regulated Qualifications Framework (RQF).
-
-</td>
-</tr>
-</table>
+<br>
 
 ---
 
 ## Experience
 
-<table width="100%">
-<tr>
-<td width="42px" align="center">🏛️</td>
-<td>
-
-**NARSA — National Road Safety Agency** &nbsp;·&nbsp; *Technology Operator · Contract · Jul – Aug 2025*
+🏛️ &nbsp;**NARSA — National Road Safety Agency** &nbsp;·&nbsp; *Technology Operator · Contract · Jul – Aug 2025*
 
 NARSA is Morocco's government authority responsible for road safety policy and public awareness nationwide. As part of a national awareness campaign, they organized a physical education village — an interactive, multi-station event designed to teach children and families about road risks through hands-on experiences.
 
 I handled the full technology side of the event: configured and maintained a tablet fleet running an interactive educational app across all stations, resolved technical issues on the spot throughout the 20-day run, and served as the primary point of contact for visitors — explaining the initiative and guiding families through the experience.
 
-</td>
-</tr>
-</table>
+<br>
 
 ---
 
