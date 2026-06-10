@@ -21,7 +21,6 @@
 <img alt="coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 </td>
-
 <td valign="top">
 
 **Full-stack software engineer** focused on building and scaling production applications across web, mobile, backend, and infrastructure. I have independently designed, developed, deployed, and maintained products serving over **100,000 users**, generating **4M+ total page views**, **400,000 monthly page views** at peak, and **50,000+ mobile installs**.
@@ -36,13 +35,13 @@
 
 ## Highlights
 
-- 🚀 Built and scaled products used by **100,000+ users**
-- 📈 Reached **4M+ total page views** and **400,000 monthly page views** at peak
-- 📱 Published applications with **50,000+ installs** on Google Play
-- 📉 Maintained a **0.33 bounce rate** (industry avg: 0.4–0.6) on *MZNovels*
-- 🌍 Shipped multilingual products in **Arabic, French, and English**
-- ⚙️ Designed automated daily data pipelines via **GitHub Actions**
-- 💰 Successfully monetized independent products in both *MZNovels* and *DawaMZ*
+- 👥 &nbsp;**100,000+ users** on a solo-built platform — *MZNovels*
+- 📊 &nbsp;**4M+ total page views** and **400,000 monthly views** at peak — *MZNovels*
+- 📱 &nbsp;**50,000+ installs** on Google Play — *DawaMZ*
+- 📉 &nbsp;**0.33 bounce rate** against an industry average of 0.4–0.6 — *MZNovels*
+- 🌍 &nbsp;Shipped multilingual products in **Arabic, French, and English**
+- 🔄 &nbsp;Automated daily data pipelines via **GitHub Actions** — *DawaMZ*
+- 💰 &nbsp;Successfully monetized independent products in both *MZNovels* and *DawaMZ*
 
 <br>
 
@@ -61,6 +60,8 @@ A cross-platform pharmacy discovery platform helping users locate nearby and on-
 `React Native` `Expo` `React` `Vite` `Vercel` `TypeScript` `Supabase` `PostgreSQL` `MapLibre` `OSRM` `Python` `GitHub Actions` `BeautifulSoup4`
 
 <br>
+
+---
 
 ### 📚 MZNovels &nbsp;·&nbsp; Reading and Publishing Platform &nbsp;·&nbsp; <a href="https://www.mznovels.com">mznovels.com</a> &nbsp;·&nbsp; <a href="https://github.com/Mohammed-Zaouk/MZNovels-website">Repo</a>
 
@@ -128,7 +129,8 @@ A full-stack digital publishing platform built and maintained independently, sca
 
 ## Education
 
-🎓 &nbsp;**OTHM Level 6 Diploma in Information Technology** &nbsp;·&nbsp; *Aug 2026 – Jan 2027*  
+🎓 &nbsp;**OTHM Level 6 Diploma in Information Technology** &nbsp;·&nbsp; *Aug 2026 – Jan 2027*
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Ofqual-regulated · RQF Level 6*
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Coursework included software engineering, systems analysis, network infrastructure, database systems, and IT project management. Regulated by Ofqual and recognised on the UK's Regulated Qualifications Framework (RQF).
