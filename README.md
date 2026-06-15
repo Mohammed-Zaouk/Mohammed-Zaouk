@@ -1,6 +1,6 @@
 <h1 align="center">Mohammed Zaouk</h1>
 
-<p align="center"><strong>Full-Stack Software Engineer · 4 Years of Experience · Morocco 🇲🇦</strong></p>
+<p align="center"><strong>Full-Stack Software Engineer · Morocco 🇲🇦</strong></p>
 
 <p align="center">
   <a href="mailto:me@zaouk.dev"><img src="https://img.shields.io/badge/Email-me@zaouk.dev-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -61,7 +61,7 @@ A cross-platform pharmacy discovery platform helping users locate nearby and on-
 
 ---
 
-### 📚 MZNovels &nbsp;·&nbsp; Reading and Publishing Platform &nbsp;·&nbsp; <a href="https://www.mznovels.com">mznovels.com</a> &nbsp;·&nbsp; <a href="https://github.com/Mohammed-Zaouk/MZNovels-website">Repo</a>
+### 📚 MZNovels &nbsp;·&nbsp; Reading and Publishing Platform &nbsp;·&nbsp; <a href="https://www.mznovels.com">mznovels.com</a> &nbsp;·&nbsp; <a href="https://github.com/Mohammed-Zaouk/MZNovels-Case-Study">Repo</a>
 
 ![Web Platform](https://img.shields.io/badge/Web_Platform-e07b1a?style=flat-square) &nbsp;![100K+ Users](https://img.shields.io/badge/100K+_Users-6b7280?style=flat-square) &nbsp;![4M+ Views](https://img.shields.io/badge/4M+_Views-3ECF8E?style=flat-square)
 
