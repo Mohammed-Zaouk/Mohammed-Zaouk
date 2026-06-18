@@ -73,6 +73,18 @@ A full-stack digital publishing platform built and maintained independently, sca
 
 ---
 
+### 🔒 RedactMZ &nbsp;·&nbsp; Client-Side PDF Redaction Tool &nbsp;·&nbsp; <a href="https://www.redactmz.com">redactmz.com</a> &nbsp;·&nbsp; <a href="https://github.com/Mohammed-Zaouk/RedactMZ">Repo</a>
+
+![Web Tool](https://img.shields.io/badge/Web_Tool-e07b1a?style=flat-square) &nbsp;![Privacy-First](https://img.shields.io/badge/Privacy_First-3ECF8E?style=flat-square) &nbsp;![Open Source](https://img.shields.io/badge/Open_Source-6b7280?style=flat-square)
+
+Built after needing to redact sensitive info from PDFs before adding them to my portfolio, and finding only paid tools or "free" ones that upload your file to a third-party server to process it. RedactMZ handles everything — rendering, redaction, and PDF generation — entirely in the browser, so the file never leaves your machine.
+
+`JavaScript` `HTML5 Canvas`
+
+<br>
+
+---
+
 ## Tech Stack
 
 **Languages**
