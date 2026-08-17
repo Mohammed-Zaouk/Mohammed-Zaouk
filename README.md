@@ -152,6 +152,16 @@ Coursework included software engineering, systems analysis, network infrastructu
 
 </td>
 </tr>
+<tr>
+<td width="42px" align="center">🔭</td>
+<td>
+
+**Physics Studies** &nbsp;·&nbsp; *Université Moulay Ismaïl*
+
+Began undergraduate studies in physics before leaving to pursue a path in IT and software engineering.
+
+</td>
+</tr>
 </table>
 
 ---
