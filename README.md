@@ -156,9 +156,10 @@ Coursework included software engineering, systems analysis, network infrastructu
 <td width="42px" align="center">🔭</td>
 <td>
 
-**Physics Studies** &nbsp;·&nbsp; *Université Moulay Ismaïl*
+**Moulay Ismail University—Meknès**  
+*B.Sc. in Physics (degree not completed)*
 
-Began undergraduate studies in physics before leaving to pursue a path in IT and software engineering.
+Redirected focus toward self-taught software development — 4+ years of independent full-stack experience since.
 
 </td>
 </tr>
