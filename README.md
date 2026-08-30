@@ -49,7 +49,7 @@
 
 ## Featured Projects
 
-### 🏥 DawaMZ &nbsp;·&nbsp; Open/On-Call Pharmacy Finder &nbsp;·&nbsp; <a href="https://www.dawamz.com">dawamz.com</a> &nbsp;·&nbsp; <a href="https://github.com/Mohammed-Zaouk/DawaMZ">Mobile Repo</a> &nbsp;·&nbsp; <a href="https://github.com/Mohammed-Zaouk/DawaMZ-web">Web Repo</a> &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=com.dawamzsorganization.dawamz">Play Store</a>
+### 🏥 DawaMZ &nbsp;·&nbsp; Open/On-Call Pharmacy Finder &nbsp;·&nbsp; <a href="https://www.dawamz.com">dawamz.com</a> &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=com.dawamzsorganization.dawamz">Play Store</a> &nbsp;·&nbsp; <a href="https://github.com/Mohammed-Zaouk/DawaMZ">Mobile Repo</a> &nbsp;·&nbsp; <a href="https://github.com/Mohammed-Zaouk/DawaMZ-web">Web Repo</a>
 
 ![Web + Mobile](https://img.shields.io/badge/Web_+_Mobile-e07b1a?style=flat-square) &nbsp;![Open Source](https://img.shields.io/badge/Open_Source-6b7280?style=flat-square) &nbsp;![50K+ Installs](https://img.shields.io/badge/50K+_Installs-3ECF8E?style=flat-square)
 
