@@ -1,3 +1,4 @@
+
 <h1 align="center">Mohammed Zaouk</h1>
 
 <p align="center"><strong>Full-Stack Software Engineer · Morocco 🇲🇦</strong></p>
@@ -51,7 +52,7 @@
 
 ### 🏥 DawaMZ &nbsp;·&nbsp; Open/On-Call Pharmacy Finder &nbsp;·&nbsp; <a href="https://www.dawamz.com">dawamz.com</a> &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=com.dawamzsorganization.dawamz">Play Store</a> &nbsp;·&nbsp; <a href="https://github.com/Mohammed-Zaouk/DawaMZ">Mobile Repo</a> &nbsp;·&nbsp; <a href="https://github.com/Mohammed-Zaouk/DawaMZ-web">Web Repo</a>
 
-![Web + Mobile](https://img.shields.io/badge/Web_+_Mobile-e07b1a?style=flat-square) &nbsp;![Open Source](https://img.shields.io/badge/Open_Source-6b7280?style=flat-square) &nbsp;![50K+ Installs](https://img.shields.io/badge/50K+_Installs-3ECF8E?style=flat-square)
+![Web + Mobile](https://img.shields.io/badge/Web_%2B_Mobile-e07b1a?style=flat-square) &nbsp;![Open Source](https://img.shields.io/badge/Open_Source-6b7280?style=flat-square) &nbsp;![50K+ Installs](https://img.shields.io/badge/50K+_Installs-3ECF8E?style=flat-square)
 
 A cross-platform pharmacy discovery platform helping users locate nearby and on-call pharmacies across Morocco. A Python-based pipeline runs daily through GitHub Actions, automatically gathering updated pharmacy schedules and syncing them with Supabase.
 
@@ -68,6 +69,20 @@ A cross-platform pharmacy discovery platform helping users locate nearby and on-
 A full-stack digital publishing platform built and maintained independently, scaling to **100,000+ users** and **4M+ total page views** with **400,000 monthly views** at peak. Writers publish and manage chapters through a full editor; readers browse, bookmark, and track progress with no account required.
 
 `Python` `Django` `MySQL` `Whoosh` `Docker` `Nginx` `Gunicorn` `JavaScript` `HTML5` `CSS3` `VPS Deployment`
+
+<br>
+
+---
+
+### 🌊 DigiBlue Morocco &nbsp;·&nbsp; Interactive Digital Storytelling &nbsp;·&nbsp; <a href="https://github.com/Mohammed-Zaouk/digiblue-morocco-water">GitHub Repo</a>
+
+![Interactive Website](https://img.shields.io/badge/Interactive_Website-e07b1a?style=flat-square) &nbsp;![Digital Storytelling](https://img.shields.io/badge/Digital_Storytelling-6b7280?style=flat-square) &nbsp;![DigiBlue 2026](https://img.shields.io/badge/DigiBlue_2026-3ECF8E?style=flat-square)
+
+An interactive digital storytelling project exploring freshwater accessibility challenges in rural Morocco, inspired by personal connections to the countryside around Taza. Developed as part of DigiBlue 2026, the project combines visual storytelling, original field content, and web development to raise awareness about water access in rural communities.
+
+Independently handled the research, content collection, visual direction, and website development, turning a personal story into an interactive digital experience.
+
+`React` `JavaScript` `CSS3` `GSAP` `ScrollTrigger` `Digital Storytelling` `Visual Research`
 
 <br>
 
