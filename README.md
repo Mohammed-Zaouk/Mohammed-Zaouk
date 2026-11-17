@@ -189,7 +189,7 @@ Redirected focus toward self-taught software development — 4+ years of indepen
 <td width="42px" align="center">🏛️</td>
 <td>
 
-**NARSA — National Road Safety Agency** &nbsp;·&nbsp; *Technology Operator · Contract · Fez, Morocco · 2023*
+**NARSA — National Road Safety Agency** &nbsp;·&nbsp; *Technology Operator · Contract · Fez, Morocco · 2025*
 
 NARSA is Morocco's government authority responsible for road safety policy and public awareness nationwide. As part of a national awareness campaign, they organized a physical education village in Fez — an interactive, multi-station event designed to teach children and families about road risks through hands-on experiences.
 
